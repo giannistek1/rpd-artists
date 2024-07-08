@@ -10,7 +10,7 @@
 {ASTRO}{}{2016-02-23}{BG}{6}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[ASTRO][][2016-02-23][BG][6][Fantagio].jpg?raw=true}
 {ATEEZ}{}{2018-10-24}{BG}{8}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][][2018-10-24][BG][8][KQ Entertainment].jpeg?raw=true}
 {B.A.P}{Best Absolute Perfect}{2012-01-26}{BG}{6}{TS Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[B.A.P][Best Absolute Perfect][2012-01-26][BG][6][TS Entertainment].jpg?raw=true}
-{BABYMONSTER}{}{2023}{GG}{7}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][][2023][GG][7][YG Entertainment].jpg?raw=true}
+{BABYMONSTER}{}{2024-04-01}{GG}{7}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][][2024-04-01][GG][7][YG Entertainment].jpg?raw=true}
 {BADVILLAIN}{}{2021-06-11}{BG}{7}{Withus Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BADVILLAIN][][2021-06-11][BG][7][Withus Entertainment].jpg?raw=true}
 {Baekhyun}{Byun Baek-hyun}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Baekhyun][Byun Baek-hyun][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
 {BEAST}{B2ST}{2009-10-16}{BG}{6}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][B2ST][2009-10-16][BG][6][Cube Entertainment].jpg?raw=true}
