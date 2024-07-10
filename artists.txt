@@ -1,3 +1,4 @@
+{(G)I-DLE}{GIDLE}{2018-05-02}{GG}{5}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][GIDLE][2018-05-02][GG][5][Cube Entertainment].webp?raw=true}
 {2NE1}{}{2009-05-06}{GG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[2NE1][][2009-05-06][GG][4][YG Entertainment].jpg?raw=true}
 {2PM}{}{2008-09-04}{BG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[2PM][][2008-09-04][BG][6][JYP Entertainment].jpg?raw=true}
 {3YE}{}{2019-05-21}{GG}{3}{GH Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[3YE][][2019-05-21][GG][3][GH Entertainment].jpg?raw=true}
@@ -39,7 +40,6 @@
 {EXO}{}{2012-04-08}{BG}{9}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[EXO][][2012-04-08][BG][9][SM Entertainment].png?raw=true}
 {f(x)}{}{2009-09-05}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][][2009-09-05][GG][5][SM Entertainment].webp?raw=true}
 {fromis_9}{}{2018-01-24}{GG}{9}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][][2018-01-24][GG][9][Pledis Entertainment].webp?raw=true}
-{G)I-DLE}{GIDLE}{2018-05-02}{GG}{5}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[G)I-DLE][GIDLE][2018-05-02][GG][5][Cube Entertainment].webp?raw=true}
 {GD X Taeyang}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
 {GFRIEND}{}{2015-01-15}{GG}{6}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][][2015-01-15][GG][6][Source Music].jpg?raw=true}
 {Girls Generation (SNSD)}{SNSD}{2007-08-05}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][SNSD][2007-08-05][GG][8][SM Entertainment].webp?raw=true}
