@@ -141,7 +141,7 @@
 {True Damage}{}{2019-11-10}{MIX}{5}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[True Damage][][2019-11-10][MIX][5][Riot Games Music].jpg?raw=true}
 {TVXQ}{DBSK}{2003-12-26}{BG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TVXQ][DBSK][2003-12-26][BG][2][SM Entertainment].jpg?raw=true}
 {Twice}{TWICE}{2015-10-20}{GG}{9}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][TWICE][2015-10-20][GG][9][JYP Entertainment].webp?raw=true}
-{TWS}{}{2020-08-04}{GG}{7}{By Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][][2020-08-04][GG][7][By Creative].jpg?raw=true}
+{TWS}{}{2020-08-04}{BG}{7}{By Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][][2020-08-04][BG][7][By Creative].jpg?raw=true}
 {TXT}{Tomorrow X Together}{2019-03-04}{BG}{5}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][Tomorrow X Together][2019-03-04][BG][5][Big Hit Entertainment].jpg?raw=true}
 {VICTON}{Voice to New World}{2016-11-09}{BG}{7}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Voice to New World][2016-11-09][BG][7][IST Entertainment].png?raw=true}
 {VIVIZ}{VIVIZ}{2022-02-09}{GG}{3}{Big Planet Made}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VIVIZ][2022-02-09][GG][3][Big Planet Made].jpg?raw=true}
