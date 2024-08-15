@@ -33,7 +33,7 @@
 {DAWN}{EDawn}{2016-07-19}{BG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[DAWN][EDawn][2016-07-19][BG][1][P Nation].webp?raw=true}
 {DKB}{Dark Brown Eyes}{2020-02-03}{BG}{9}{Brave Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[DKB][Dark Brown Eyes][2020-02-03][BG][9][Brave Entertainment].jpg?raw=true}
 {Dreamcatcher}{}{2017-01-13}{GG}{7}{Dreamcatcher Company}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][][2017-01-13][GG][7][Dreamcatcher Company].webp?raw=true}
-{ENHYPEN}{}{2020-11-30}{BG}{7}{Belift Lab}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][][2020-11-30][BG][7][Belift Lab].png?raw=true}
+{ENHYPEN}{}{2020-11-30}{BG}{7}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][][2020-11-30][BG][7][HYBE Labels].png?raw=true}
 {EVERGLOW}{}{2019-03-18}{GG}{6}{Yuehua Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[EVERGLOW][][2019-03-18][GG][6][Yuehua Entertainment].jpg?raw=true}
 {EXID}{Exceed In Dreaming}{2012-02-16}{GG}{5}{Banana Culture}{https://github.com/giannistek1/rpd-audio/blob/main/[EXID][Exceed In Dreaming][2012-02-16][GG][5][Banana Culture].jpg?raw=true}
 {EXO-K}{}{2012-04-08}{BG}{6}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[EXO-K][][2012-04-08][BG][6][SM Entertainment].webp?raw=true}
@@ -95,7 +95,7 @@
 {NCT Dream}{}{2016-08-25}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][][2016-08-25][BG][7][SM Entertainment].jpg?raw=true}
 {NCT U}{}{2016-04-09}{BG}{23}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][][2016-04-09][BG][23][SM Entertainment].jpg?raw=true}
 {NCT x aespa}{}{2023-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][][2023-12-27][MIX][12][SM Entertainment].jpg?raw=true}
-{NewJeans}{}{2022-07-22}{GG}{5}{ADOR}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][][2022-07-22][GG][5][ADOR].jpg?raw=true}
+{NewJeans}{}{2022-07-22}{GG}{5}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][][2022-07-22][GG][5][HYBE Labels].jpg?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][][2022-02-22][GG][6][JYP Entertainment].jpg?raw=true}
 {OH MY GIRL}{}{2015-04-20}{GG}{7}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][][2015-04-20][GG][7][WM Entertainment].webp?raw=true}
 {OMEGA X}{}{2021-06-30}{BG}{11}{SPIRE Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OMEGA X][][2021-06-30][BG][11][SPIRE Entertainment].jpg?raw=true}
