@@ -118,6 +118,7 @@
 {Seventeen}{SVT}{2015-05-26}{BG}{13}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][SVT][2015-05-26][BG][13][Pledis Entertainment].webp?raw=true}
 {SF9}{Sensational Feeling 9}{2016-10-05}{BG}{9}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SF9][Sensational Feeling 9][2016-10-05][BG][9][FNC Entertainment].jpg?raw=true}
 {SHINee}{}{2008-05-25}{BG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINee][][2008-05-25][BG][5][SM Entertainment].webp?raw=true}
+{SHINHWA}{}{1998-03-24}{BG}{6}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINHWA][][1998-03-24][BG][6][SM Entertainment].jpg?raw=true}
 {SISTAR}{}{2010-06-03}{GG}{4}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SISTAR][][2010-06-03][GG][4][Starship Entertainment].jpg?raw=true}
 {Solar (MAMAMOO)}{Kim Yong-sun}{2014-06-19}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (MAMAMOO)][Kim Yong-sun][2014-06-19][GG][1][RBW Entertainment].webp?raw=true}
 {SOMI}{Jeon So-mi}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[SOMI][Jeon So-mi][2016-05-04][GG][1][The Black Label].jpg?raw=true}
