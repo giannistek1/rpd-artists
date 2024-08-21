@@ -108,7 +108,7 @@
 {PLEDIS Girlz}{}{2016-03-25}{GG}{10}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PLEDIS Girlz][][2016-03-25][GG][10][Pledis Entertainment].webp?raw=true}
 {PRISTIN V}{}{2018-05-28}{GG}{5}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PRISTIN V][][2018-05-28][GG][5][Pledis Entertainment].webp?raw=true}
 {PRISTIN}{}{2017-03-21}{GG}{10}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PRISTIN][][2017-03-21][GG][10][Pledis Entertainment].jpg?raw=true}
-{PSY}{Psycho}{2012-01-18}{BG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[PSY][Psycho][2012-01-18][BG][1][P Nation].webp?raw=true}
+{PSY}{Psycho}{2010-01-18}{BG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[PSY][Psycho][2010-01-18][BG][1][P Nation].webp?raw=true}
 {PURPLE K!SS}{Purple Kiss}{2021-03-15}{GG}{7}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PURPLE K!SS][Purple Kiss][2021-03-15][GG][7][RBW Entertainment].jpg?raw=true}
 {Red Velvet}{}{2014-08-01}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][][2014-08-01][GG][5][SM Entertainment].jpg?raw=true}
 {RIIZE}{}{2023-09-04}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][][2023-09-04][BG][7][SM Entertainment].jpg?raw=true}
