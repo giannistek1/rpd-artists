@@ -5,7 +5,7 @@
 {4Minute}{}{2009-06-15}{GG}{5}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[4Minute][][2009-06-15][GG][5][Cube Entertainment].jpg?raw=true}
 {A.C.E}{}{2017-05-23}{BG}{5}{Beat Interactive}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][][2017-05-23][BG][5][Beat Interactive].webp?raw=true}
 {aespa}{}{2020-11-17}{GG}{4}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][][2020-11-17][GG][4][SM Entertainment].jpg?raw=true}
-{Agust D}{Suga}{2016-08-16}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Agust D][Suga][2016-08-16][BG][1][Big Hit Entertainment].jpg?raw=true}
+{Agust D (BTS)}{Suga}{2016-08-16}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Agust D (BTS)][Suga][2016-08-16][BG][1][Big Hit Entertainment].jpg?raw=true}
 {AOA}{Ace of Angels}{2012-07-30}{GG}{8}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Ace of Angels][2012-07-30][GG][8][FNC Entertainment].jpg?raw=true}
 {Apink}{}{2011-04-19}{GG}{6}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][][2011-04-19][GG][6][IST Entertainment].jpeg?raw=true}
 {ASTRO}{}{2016-02-23}{BG}{6}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[ASTRO][][2016-02-23][BG][6][Fantagio].jpg?raw=true}
@@ -70,7 +70,7 @@
 {Jay Park}{Park Jae-beom}{2008-08-29}{BG}{1}{AOMG}{https://github.com/giannistek1/rpd-audio/blob/main/[Jay Park][Park Jae-beom][2008-08-29][BG][1][AOMG].jpg?raw=true}
 {JENNIE (BLACKPINK)}{Jennie Kim}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (BLACKPINK)][Jennie Kim][2016-08-08][GG][1][YG Entertainment].jpg?raw=true}
 {Jessi}{Jessica H.o.}{2005-12-01}{GG}{1}{PNation}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Jessica H.o.][2005-12-01][GG][1][PNation].jpg?raw=true}
-{JIHYO (TWICE)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (TWICE)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
+{JIHYO (Twice)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
 {JISOO (BLACKPINK)}{Kim Ji-soo}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (BLACKPINK)][Kim Ji-soo][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
 {Jungkook (BTS)}{Jeon Jung-kook}{2013-06-13}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Jungkook (BTS)][Jeon Jung-kook][2013-06-13][BG][1][Big Hit Entertainment].jpg?raw=true}
 {JUST B}{}{2021-06-30}{BG}{6}{Blue Dot Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][][2021-06-30][BG][6][Blue Dot Entertainment].jpg?raw=true}
@@ -86,11 +86,11 @@
 {Mamamoo}{}{2014-06-19}{GG}{4}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][][2014-06-19][GG][4][RBW Entertainment].jpg?raw=true}
 {MCND}{Music Creates New Dream}{2020-02-27}{BG}{5}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][Music Creates New Dream][2020-02-27][BG][5][TOP Media].jpg?raw=true}
 {MIRAE}{}{2021-03-17}{BG}{7}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][][2021-03-17][BG][7][DSP Media].jpg?raw=true}
-{MISAMO (TWICE)}{}{2023-07-26}{GG}{3}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MISAMO (TWICE)][][2023-07-26][GG][3][JYP Entertainment].jpg?raw=true}
+{MISAMO (Twice)}{}{2023-07-26}{GG}{3}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MISAMO (Twice)][][2023-07-26][GG][3][JYP Entertainment].jpg?raw=true}
 {MOMOLAND & Natti Natasha}{}{2016-11-10}{GG}{6}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND & Natti Natasha][][2016-11-10][GG][6][MLD Entertainment].webp?raw=true}
 {MOMOLAND}{}{2016-11-10}{GG}{9}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][][2016-11-10][GG][9][MLD Entertainment].jpg?raw=true}
 {MONSTA X}{}{2015-05-14}{BG}{6}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MONSTA X][][2015-05-14][BG][6][Starship Entertainment].jpg?raw=true}
-{NAYEON (TWICE)}{Im Na-yeon}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (TWICE)][Im Na-yeon][2015-10-20][GG][1][JYP Entertainment].webp?raw=true}
+{NAYEON (Twice)}{Im Na-yeon}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (Twice)][Im Na-yeon][2015-10-20][GG][1][JYP Entertainment].webp?raw=true}
 {NCT 127}{}{2016-07-07}{BG}{10}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][][2016-07-07][BG][10][SM Entertainment].webp?raw=true}
 {NCT Dream}{}{2016-08-25}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][][2016-08-25][BG][7][SM Entertainment].jpg?raw=true}
 {NCT U}{}{2016-04-09}{BG}{23}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][][2016-04-09][BG][23][SM Entertainment].jpg?raw=true}
