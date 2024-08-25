@@ -77,6 +77,7 @@
 {JUST B}{}{2021-06-30}{BG}{6}{Blue Dot Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][][2021-06-30][BG][6][Blue Dot Entertainment].jpg?raw=true}
 {KAI (EXO)}{Kim Jong-in}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][Kim Jong-in][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
 {KARD}{}{2017-07-19}{MIX}{4}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][][2017-07-19][MIX][4][DSP Media].webp?raw=true}
+{KATSEYE}{}{2024-06-28}{GG}{6}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][][2024-06-28][GG][6][HYBE Labels].jpg?raw=true}
 {KDA}{}{2018-11-03}{GG}{4}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[KDA][][2018-11-03][GG][4][Riot Games Music].png?raw=true}
 {Kep1er}{}{2022-01-03}{GG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[Kep1er][][2022-01-03][GG][9][Wake One].webp?raw=true}
 {KISS OF LIFE}{}{2023-07-05}{GG}{4}{S2 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][][2023-07-05][GG][4][S2 Entertainment].jpg?raw=true}
