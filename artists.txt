@@ -76,7 +76,7 @@
 {Jungkook (BTS)}{Jeon Jung-kook}{2013-06-13}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Jungkook (BTS)][Jeon Jung-kook][2013-06-13][BG][1][Big Hit Entertainment].jpg?raw=true}
 {JUST B}{}{2021-06-30}{BG}{6}{Blue Dot Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][][2021-06-30][BG][6][Blue Dot Entertainment].jpg?raw=true}
 {KAI (EXO)}{Kim Jong-in}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][Kim Jong-in][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
-{KAI, SEULGI, JENO, KARINA}{}{2022-12-26}{4}{MIX}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI, SEULGI, JENO, KARINA][][2022-12-26][4][MIX][SM Entertainment].webp?raw=true}
+{KAI, SEULGI, JENO, KARINA}{}{2022-12-26}{MIX}{4}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI, SEULGI, JENO, KARINA][][2022-12-26][MIX][4][SM Entertainment].webp?raw=true}
 {KARD}{}{2017-07-19}{MIX}{4}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][][2017-07-19][MIX][4][DSP Media].webp?raw=true}
 {KATSEYE}{}{2024-06-28}{GG}{6}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][][2024-06-28][GG][6][HYBE Labels].jpg?raw=true}
 {KDA}{}{2018-11-03}{GG}{4}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[KDA][][2018-11-03][GG][4][Riot Games Music].png?raw=true}
