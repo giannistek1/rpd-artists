@@ -44,6 +44,7 @@
 {GD X Taeyang}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
 {GFRIEND}{}{2015-01-15}{GG}{6}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][][2015-01-15][GG][6][Source Music].jpg?raw=true}
 {Girls Generation (SNSD)}{SNSD}{2007-08-05}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][SNSD][2007-08-05][GG][8][SM Entertainment].webp?raw=true}
+{GISELLE (aespa)}{Aeri Uchinaga}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GISELLE (aespa)][Aeri Uchinaga][2020-11-17][GG][1][SM Entertainment] .png?raw=true}
 {GOT The Beat}{}{2022-01-03}{GG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GOT The Beat][][2022-01-03][GG][7][SM Entertainment].webp?raw=true}
 {GOT7}{}{2014-01-16}{BG}{7}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GOT7][][2014-01-16][BG][7][JYP Entertainment].webp?raw=true}
 {H.I.N.P}{}{2019-07-02}{BG}{5}{Stone Music Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[H.I.N.P][][2019-07-02][BG][5][Stone Music Entertainment].webp?raw=true}
@@ -78,6 +79,7 @@
 {KAI (EXO)}{Kim Jong-in}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][Kim Jong-in][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
 {KAI, SEULGI, JENO, KARINA}{}{2022-12-26}{MIX}{4}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI, SEULGI, JENO, KARINA][][2022-12-26][MIX][4][SM Entertainment].webp?raw=true}
 {KARD}{}{2017-07-19}{MIX}{4}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][][2017-07-19][MIX][4][DSP Media].webp?raw=true}
+{KARINA (aespa)}{Yu Jimin}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][Yu Jimin][2020-11-17][GG][1][SM Entertainment].jpg?raw=true}
 {KATSEYE}{}{2024-06-28}{GG}{6}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][][2024-06-28][GG][6][HYBE Labels].jpg?raw=true}
 {KDA}{}{2018-11-03}{GG}{4}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[KDA][][2018-11-03][GG][4][Riot Games Music].png?raw=true}
 {Kep1er}{}{2022-01-03}{GG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[Kep1er][][2022-01-03][GG][9][Wake One].webp?raw=true}
@@ -97,8 +99,9 @@
 {NCT 127}{}{2016-07-07}{BG}{10}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][][2016-07-07][BG][10][SM Entertainment].webp?raw=true}
 {NCT Dream}{}{2016-08-25}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][][2016-08-25][BG][7][SM Entertainment].jpg?raw=true}
 {NCT U}{}{2016-04-09}{BG}{23}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][][2016-04-09][BG][23][SM Entertainment].jpg?raw=true}
-{NCT x aespa}{}{2023-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][][2023-12-27][MIX][12][SM Entertainment].jpg?raw=true}
+{NCT x aespa}{}{2020-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][][2020-12-27][MIX][12][SM Entertainment].jpg?raw=true}
 {NewJeans}{}{2022-07-22}{GG}{5}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][][2022-07-22][GG][5][HYBE Labels].jpg?raw=true}
+{NINGNING (aespa}{Ning Yizhuo}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NINGNING (aespa][Ning Yizhuo][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][][2022-02-22][GG][6][JYP Entertainment].jpg?raw=true}
 {OH MY GIRL}{}{2015-04-20}{GG}{7}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][][2015-04-20][GG][7][WM Entertainment].webp?raw=true}
 {OMEGA X}{}{2021-06-30}{BG}{11}{SPIRE Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OMEGA X][][2021-06-30][BG][11][SPIRE Entertainment].jpg?raw=true}
@@ -156,6 +159,7 @@
 {WEi}{}{2020-10-05}{BG}{6}{OUI Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WEi][][2020-10-05][BG][6][OUI Entertainment].jpg?raw=true}
 {Weki Meki}{WEME}{2017-08-08}{GG}{8}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[Weki Meki][WEME][2017-08-08][GG][8][Fantagio].jpg?raw=true}
 {WINNER}{}{2014-08-17}{BG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WINNER][][2014-08-17][BG][4][YG Entertainment].png?raw=true}
+{WINTER (aespa)}{Kim Minjeong}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WINTER (aespa)][Kim Minjeong][2020-11-17][GG][1][SM Entertainment].jpg?raw=true}
 {WJSN CHOCOME}{WJSN}{2020-10-07}{GG}{4}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN CHOCOME][WJSN][2020-10-07][GG][4][Starship Entertainment].jpg?raw=true}
 {WJSN THE BLACK}{WJSN}{2021-05-12}{GG}{4}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN THE BLACK][WJSN][2021-05-12][GG][4][Starship Entertainment].webp?raw=true}
 {WJSN}{Cosmic Girls}{2016-02-25}{GG}{13}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN][Cosmic Girls][2016-02-25][GG][13][Starship Entertainment].jpg?raw=true}
