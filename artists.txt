@@ -14,7 +14,7 @@
 {B.A.P}{Best Absolute Perfect}{2012-01-26}{BG}{6}{TS Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[B.A.P][Best Absolute Perfect][2012-01-26][BG][6][TS Entertainment].jpg?raw=true}
 {BABYMONSTER}{}{2024-04-01}{GG}{7}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][][2024-04-01][GG][7][YG Entertainment].jpg?raw=true}
 {BADVILLAIN}{}{2021-06-11}{BG}{7}{Withus Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BADVILLAIN][][2021-06-11][BG][7][Withus Entertainment].jpg?raw=true}
-{Baekhyun}{Byun Baek-hyun}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Baekhyun][Byun Baek-hyun][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
+{Baekhyun (EXO)}{Byun Baek-hyun}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Baekhyun (EXO)][Byun Baek-hyun][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
 {BEAST}{B2ST}{2009-10-16}{BG}{6}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][B2ST][2009-10-16][BG][6][Cube Entertainment].jpg?raw=true}
 {BIGBANG}{}{2006-08-19}{BG}{5}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][][2006-08-19][BG][5][YG Entertainment].jpg?raw=true}
 {Billie Eilish}{}{2015-11-18}{GG}{1}{Interscope Records}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie Eilish][][2015-11-18][GG][1][Interscope Records].jpg?raw=true}
@@ -84,7 +84,7 @@
 {KDA}{}{2018-11-03}{GG}{4}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[KDA][][2018-11-03][GG][4][Riot Games Music].png?raw=true}
 {Kep1er}{}{2022-01-03}{GG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[Kep1er][][2022-01-03][GG][9][Wake One].webp?raw=true}
 {KISS OF LIFE}{}{2023-07-05}{GG}{4}{S2 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][][2023-07-05][GG][4][S2 Entertainment].jpg?raw=true}
-{LE SERRAFIM}{}{2022-05-02}{GG}{5}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][][2022-05-02][GG][5][Source Music].webp?raw=true}
+{LE SERRAFIM}{LSF}{2022-05-02}{GG}{5}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][LSF][2022-05-02][GG][5][Source Music].webp?raw=true}
 {Lee Jinhyuk}{Wei}{2014-11-17}{BG}{1}{Top Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk][Wei][2014-11-17][BG][1][Top Media].jpg?raw=true}
 {LISA (Blackpink)}{Lalisa Manoban}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][Lalisa Manoban][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
 {LOONA}{}{2018-08-20}{GG}{12}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][][2018-08-20][GG][12][Blockberry Creative].webp?raw=true}
@@ -116,7 +116,7 @@
 {PRISTIN}{}{2017-03-21}{GG}{10}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PRISTIN][][2017-03-21][GG][10][Pledis Entertainment].jpg?raw=true}
 {PSY}{Psycho}{2010-01-18}{BG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[PSY][Psycho][2010-01-18][BG][1][P Nation].webp?raw=true}
 {PURPLE K!SS}{Purple Kiss}{2021-03-15}{GG}{7}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PURPLE K!SS][Purple Kiss][2021-03-15][GG][7][RBW Entertainment].jpg?raw=true}
-{Red Velvet}{}{2014-08-01}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][][2014-08-01][GG][5][SM Entertainment].jpg?raw=true}
+{Red Velvet}{RV}{2014-08-01}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][RV][2014-08-01][GG][5][SM Entertainment].jpg?raw=true}
 {RIIZE}{}{2023-09-04}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][][2023-09-04][BG][7][SM Entertainment].jpg?raw=true}
 {Rose (Blackpink)}{Roseanne Park}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Rose (Blackpink)][Roseanne Park][2016-08-08][GG][1][YG Entertainment].jpg?raw=true}
 {SECRET NUMBER}{}{2020-05-19}{GG}{6}{Vine Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][][2020-05-19][GG][6][Vine Entertainment].jpg?raw=true}
