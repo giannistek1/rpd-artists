@@ -6,7 +6,7 @@
 {A.C.E}{}{2017-05-23}{BG}{5}{Beat Interactive}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][][2017-05-23][BG][5][Beat Interactive].webp?raw=true}
 {aespa}{}{2020-11-17}{GG}{4}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][][2020-11-17][GG][4][SM Entertainment].jpg?raw=true}
 {Agust D (BTS)}{Suga}{2016-08-16}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Agust D (BTS)][Suga][2016-08-16][BG][1][Big Hit Entertainment].jpg?raw=true}
-{Ailee}{}{2012-02-08}{GG}{1}{A2Z Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][][2012-02-08][GG][1][A2Z Entertainment].png?raw=true}
+{Ailee}{Amy Lee}{2012-02-08}{GG}{1}{A2Z Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][Amy Lee][2012-02-08][GG][1][A2Z Entertainment].png?raw=true}
 {AOA}{Ace of Angels}{2012-07-30}{GG}{8}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Ace of Angels][2012-07-30][GG][8][FNC Entertainment].jpg?raw=true}
 {Apink}{}{2011-04-19}{GG}{6}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][][2011-04-19][GG][6][IST Entertainment].jpeg?raw=true}
 {ASTRO}{}{2016-02-23}{BG}{6}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[ASTRO][][2016-02-23][BG][6][Fantagio].jpg?raw=true}
