@@ -131,7 +131,7 @@
 {Sparkling}{}{2022-09-13}{BG}{5}{SF Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Sparkling][][2022-09-13][BG][5][SF Entertainment].jpeg?raw=true}
 {STAYC}{}{2020-11-12}{GG}{6}{High Up Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[STAYC][][2020-11-12][GG][6][High Up Entertainment].webp?raw=true}
 {Stray Kids}{SKZ}{2018-03-25}{BG}{8}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][SKZ][2018-03-25][BG][8][JYP Entertainment].jpg?raw=true}
-{SUNMI}{Lee Sun-mi}{2007-02-10}{GG}{1}{Abyss Company}{https://github.com/giannistek1/rpd-audio/blob/main/[SUNMI][Lee Sun-mi][2007-02-10][GG][1][Abyss Company].jpg?raw=true}
+{SUNMI (Wonder Girls)}{Lee Sun-mi}{2007-02-10}{GG}{1}{Abyss Company}{https://github.com/giannistek1/rpd-audio/blob/main/[SUNMI (Wonder Girls)][Lee Sun-mi][2007-02-10][GG][1][Abyss Company].jpg?raw=true}
 {Super Junior}{SUJU}{2005-11-06}{BG}{10}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Super Junior][SUJU][2005-11-06][BG][10][SM Entertainment].webp?raw=true}
 {SuperM}{}{2019-10-04}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SuperM][][2019-10-04][BG][7][SM Entertainment].png?raw=true}
 {T-ARA}{}{2009-07-29}{GG}{6}{MBK Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[T-ARA][][2009-07-29][GG][6][MBK Entertainment].jpg?raw=true}
