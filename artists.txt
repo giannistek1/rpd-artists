@@ -54,7 +54,7 @@
 {HYOLYN (SISTAR)}{Hyorin}{2010-06-03}{GG}{1}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN (SISTAR)][Hyorin][2010-06-03][GG][1][Starship Entertainment].png?raw=true}
 {HYOYEON (SNSD)}{DJ HYO}{2007-08-05}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON (SNSD)][DJ HYO][2007-08-05][GG][1][SM Entertainment].jpg?raw=true}
 {HyunA & Dawn}{}{2019-11-05}{MIX}{2}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA & Dawn][][2019-11-05][MIX][2][P Nation].webp?raw=true}
-{HyunA}{Kim Hyun-a}{2007-02-10}{GG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Kim Hyun-a][2007-02-10][GG][1][P Nation].jpg?raw=true}
+{HyunA (4Minute)}{Kim Hyun-a}{2007-02-10}{GG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA (4Minute)][Kim Hyun-a][2007-02-10][GG][1][P Nation].jpg?raw=true}
 {I-LAND2}{}{2024-04-18}{MIX}{11}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND2][][2024-04-18][MIX][11][HYBE Labels].webp?raw=true}
 {I-LAND}{}{2020-06-26}{MIX}{23}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND][][2020-06-26][MIX][23][HYBE Labels].jpg?raw=true}
 {I.O.I}{Ideal of Idol}{2016-05-04}{GG}{11}{YMC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[I.O.I][Ideal of Idol][2016-05-04][GG][11][YMC Entertainment].jpg?raw=true}
