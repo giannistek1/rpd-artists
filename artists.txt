@@ -51,7 +51,7 @@
 {Highlight}{BEAST}{2009-10-16}{BG}{5}{Around Us Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Highlight][BEAST][2009-10-16][BG][5][Around Us Entertainment].jpg?raw=true}
 {HINAPIA}{}{2019-11-03}{GG}{5}{OSR Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HINAPIA][][2019-11-03][GG][5][OSR Entertainment].webp?raw=true}
 {HWASA (Mamamoo)}{Hwa Sa}{2014-06-19}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][Hwa Sa][2014-06-19][GG][1][RBW Entertainment].jpg?raw=true}
-{HYOLYN}{Hyorin}{2010-06-03}{GG}{1}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Hyorin][2010-06-03][GG][1][Starship Entertainment].png?raw=true}
+{HYOLYN (SISTAR)}{Hyorin}{2010-06-03}{GG}{1}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN (SISTAR)][Hyorin][2010-06-03][GG][1][Starship Entertainment].png?raw=true}
 {HYOYEON (SNSD)}{DJ HYO}{2007-08-05}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON (SNSD)][DJ HYO][2007-08-05][GG][1][SM Entertainment].jpg?raw=true}
 {HyunA & Dawn}{}{2019-11-05}{MIX}{2}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA & Dawn][][2019-11-05][MIX][2][P Nation].webp?raw=true}
 {HyunA}{Kim Hyun-a}{2007-02-10}{GG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Kim Hyun-a][2007-02-10][GG][1][P Nation].jpg?raw=true}
