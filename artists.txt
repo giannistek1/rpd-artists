@@ -85,7 +85,7 @@
 {Kep1er}{}{2022-01-03}{GG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[Kep1er][][2022-01-03][GG][9][Wake One].webp?raw=true}
 {KISS OF LIFE}{}{2023-07-05}{GG}{4}{S2 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][][2023-07-05][GG][4][S2 Entertainment].jpg?raw=true}
 {LE SERRAFIM}{LSF}{2022-05-02}{GG}{5}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][LSF][2022-05-02][GG][5][Source Music].webp?raw=true}
-{Lee Jinhyuk (UP10TION)}{Wei}{2014-11-17}{BG}{1}{Top Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][Wei][2014-11-17][BG][1][Top Media].jpg?raw=true}
+{Lee Jinhyuk (UP10TION)}{Wei}{2014-11-17}{BG}{1}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][Wei][2014-11-17][BG][1][TOP Media].jpg?raw=true}
 {LISA (Blackpink)}{Lalisa Manoban}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][Lalisa Manoban][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
 {LOONA}{}{2018-08-20}{GG}{12}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][][2018-08-20][GG][12][Blockberry Creative].webp?raw=true}
 {Mamamoo}{}{2014-06-19}{GG}{4}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][][2014-06-19][GG][4][RBW Entertainment].jpg?raw=true}
