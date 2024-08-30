@@ -20,6 +20,7 @@
 {Billie Eilish}{}{2015-11-18}{GG}{1}{Interscope Records}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie Eilish][][2015-11-18][GG][1][Interscope Records].jpg?raw=true}
 {Blackpink}{BLACKPINK}{2016-08-08}{GG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][BLACKPINK][2016-08-08][GG][4][YG Entertainment].jpg?raw=true}
 {Block B}{}{2011-04-13}{BG}{7}{Stardom Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Block B][][2011-04-13][BG][7][Stardom Entertainment].jpg?raw=true}
+{BoA}{Beat of Angel, Kwon Bo-ah}{2000-08-25}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BoA][Beat of Angel, Kwon Bo-ah][2000-08-25][GG][1][SM Entertainment].png?raw=true}
 {BOYNEXTDOOR}{}{2023-05-30}{BG}{6}{KOZ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BOYNEXTDOOR][][2023-05-30][BG][6][KOZ Entertainment].jpg?raw=true}
 {Brave Girls}{}{2011-04-08}{GG}{4}{Brave Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Brave Girls][][2011-04-08][GG][4][Brave Entertainment].jpg?raw=true}
 {Brown Eyed Girls}{BEG}{2006-03-02}{GG}{4}{Mystic Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Brown Eyed Girls][BEG][2006-03-02][GG][4][Mystic Entertainment].jpg?raw=true}
