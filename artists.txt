@@ -130,7 +130,7 @@
 {Solar (Mamamoo)}{Kim Yong-sun}{2014-06-19}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (Mamamoo)][Kim Yong-sun][2014-06-19][GG][1][RBW Entertainment].webp?raw=true}
 {SOMI}{Jeon So-mi}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[SOMI][Jeon So-mi][2016-05-04][GG][1][The Black Label].jpg?raw=true}
 {Sparkling}{}{2022-09-13}{BG}{5}{SF Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Sparkling][][2022-09-13][BG][5][SF Entertainment].jpeg?raw=true}
-{STAYC}{}{2020-11-12}{GG}{6}{High Up Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[STAYC][][2020-11-12][GG][6][High Up Entertainment].webp?raw=true}
+{STAYC}{Star To A Young Culture}{2020-11-12}{GG}{6}{High Up Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[STAYC][Star To A Young Culture][2020-11-12][GG][6][High Up Entertainment].webp?raw=true}
 {Stray Kids}{SKZ}{2018-03-25}{BG}{8}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][SKZ][2018-03-25][BG][8][JYP Entertainment].jpg?raw=true}
 {SUNMI (Wonder Girls)}{Lee Sun-mi}{2007-02-10}{GG}{1}{Abyss Company}{https://github.com/giannistek1/rpd-audio/blob/main/[SUNMI (Wonder Girls)][Lee Sun-mi][2007-02-10][GG][1][Abyss Company].jpg?raw=true}
 {Super Junior}{SUJU}{2005-11-06}{BG}{10}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Super Junior][SUJU][2005-11-06][BG][10][SM Entertainment].webp?raw=true}
