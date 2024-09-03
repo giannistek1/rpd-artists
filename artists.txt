@@ -35,7 +35,7 @@
 {David Guetta}{}{2001-06-18}{BG}{1}{Parlophone}{https://github.com/giannistek1/rpd-audio/blob/main/[David Guetta][][2001-06-18][BG][1][Parlophone].jpg?raw=true}
 {DAWN}{EDawn}{2016-07-19}{BG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[DAWN][EDawn][2016-07-19][BG][1][P Nation].webp?raw=true}
 {DKB}{Dark Brown Eyes}{2020-02-03}{BG}{9}{Brave Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[DKB][Dark Brown Eyes][2020-02-03][BG][9][Brave Entertainment].jpg?raw=true}
-{Dreamcatcher}{}{2017-01-13}{GG}{7}{Dreamcatcher Company}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][][2017-01-13][GG][7][Dreamcatcher Company].webp?raw=true}
+{Dreamcatcher}{DC}{2017-01-13}{GG}{7}{Dreamcatcher Company}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][DC][2017-01-13][GG][7][Dreamcatcher Company].webp?raw=true}
 {ENHYPEN}{}{2020-11-30}{BG}{7}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][][2020-11-30][BG][7][HYBE Labels].png?raw=true}
 {EVERGLOW}{}{2019-03-18}{GG}{6}{Yuehua Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[EVERGLOW][][2019-03-18][GG][6][Yuehua Entertainment].jpg?raw=true}
 {EXID}{Exceed In Dreaming}{2012-02-16}{GG}{5}{Banana Culture}{https://github.com/giannistek1/rpd-audio/blob/main/[EXID][Exceed In Dreaming][2012-02-16][GG][5][Banana Culture].jpg?raw=true}
@@ -61,7 +61,7 @@
 {I-LAND}{}{2020-06-26}{MIX}{23}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND][][2020-06-26][MIX][23][HYBE Labels].jpg?raw=true}
 {I.O.I}{Ideal of Idol}{2016-05-04}{GG}{11}{YMC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[I.O.I][Ideal of Idol][2016-05-04][GG][11][YMC Entertainment].jpg?raw=true}
 {iKON}{}{2015-09-15}{BG}{6}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[iKON][][2015-09-15][BG][6][YG Entertainment].jpg?raw=true}
-{ILLIT}{}{2022-03-23}{BG}{5}{C9 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT][][2022-03-23][BG][5][C9 Entertainment].jpg?raw=true}
+{ILLIT}{}{2022-03-23}{GG}{5}{C9 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT][][2022-03-23][GG][5][C9 Entertainment].jpg?raw=true}
 {Infinite}{INFINITE}{2010-06-09}{BG}{6}{Woollim Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][INFINITE][2010-06-09][BG][6][Woollim Entertainment].jpg?raw=true}
 {Irene & Seulgi (Red Velvet)}{}{2020-07-06}{GG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi (Red Velvet)][][2020-07-06][GG][2][SM Entertainment].png?raw=true}
 {ITZY}{}{2019-02-12}{GG}{5}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][][2019-02-12][GG][5][JYP Entertainment].webp?raw=true}
@@ -105,10 +105,10 @@
 {NewJeans}{}{2022-07-22}{GG}{5}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][][2022-07-22][GG][5][HYBE Labels].jpg?raw=true}
 {NINGNING (aespa}{Ning Yizhuo}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NINGNING (aespa][Ning Yizhuo][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][][2022-02-22][GG][6][JYP Entertainment].jpg?raw=true}
-{OH MY GIRL}{}{2015-04-20}{GG}{7}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][][2015-04-20][GG][7][WM Entertainment].webp?raw=true}
+{OH MY GIRL}{OMG}{2015-04-20}{GG}{7}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][OMG][2015-04-20][GG][7][WM Entertainment].webp?raw=true}
 {OMEGA X}{}{2021-06-30}{BG}{11}{SPIRE Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OMEGA X][][2021-06-30][BG][11][SPIRE Entertainment].jpg?raw=true}
 {ONEUS}{}{2019-01-09}{BG}{6}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][][2019-01-09][BG][6][RBW Entertainment].jpg?raw=true}
-{OnlyOneOf}{}{2019-05-28}{BG}{7}{8D Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OnlyOneOf][][2019-05-28][BG][7][8D Entertainment].jpg?raw=true}
+{OnlyOneOf}{OOO}{2019-05-28}{BG}{7}{8D Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OnlyOneOf][OOO][2019-05-28][BG][7][8D Entertainment].jpg?raw=true}
 {Orange Caramel}{}{2010-06-16}{GG}{3}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Orange Caramel][][2010-06-16][GG][3][Pledis Entertainment].jpg?raw=true}
 {P1Harmony}{P1H}{2020-10-28}{BG}{6}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[P1Harmony][P1H][2020-10-28][BG][6][FNC Entertainment].webp?raw=true}
 {PENTAGON}{}{2016-10-10}{BG}{9}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PENTAGON][][2016-10-10][BG][9][Cube Entertainment].jpeg?raw=true}
@@ -150,7 +150,7 @@
 {True Damage}{}{2019-11-10}{MIX}{5}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[True Damage][][2019-11-10][MIX][5][Riot Games Music].jpg?raw=true}
 {TVXQ}{DBSK}{2003-12-26}{BG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TVXQ][DBSK][2003-12-26][BG][2][SM Entertainment].jpg?raw=true}
 {Twice}{TWICE}{2015-10-20}{GG}{9}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][TWICE][2015-10-20][GG][9][JYP Entertainment].webp?raw=true}
-{TWS}{}{2020-08-04}{BG}{7}{By Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][][2020-08-04][BG][7][By Creative].jpg?raw=true}
+{TWS}{Two-us, Twenty Four Seven With Us}{2020-08-04}{BG}{7}{By Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][Two-us, Twenty Four Seven With Us][2020-08-04][BG][7][By Creative].jpg?raw=true}
 {TXT}{Tomorrow X Together}{2019-03-04}{BG}{5}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][Tomorrow X Together][2019-03-04][BG][5][Big Hit Entertainment].jpg?raw=true}
 {VICTON}{Voice to New World}{2016-11-09}{BG}{7}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Voice to New World][2016-11-09][BG][7][IST Entertainment].png?raw=true}
 {VIVIZ}{VIVIZ}{2022-02-09}{GG}{3}{Big Planet Made}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VIVIZ][2022-02-09][GG][3][Big Planet Made].jpg?raw=true}
