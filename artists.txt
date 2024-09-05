@@ -100,6 +100,7 @@
 {MONSTA X}{}{2015-05-14}{BG}{6}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MONSTA X][][2015-05-14][BG][6][Starship Entertainment].jpg?raw=true}
 {NAYEON (Twice)}{Im Na-yeon}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (Twice)][Im Na-yeon][2015-10-20][GG][1][JYP Entertainment].webp?raw=true}
 {NCT 127}{}{2016-07-07}{BG}{10}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][][2016-07-07][BG][10][SM Entertainment].webp?raw=true}
+{NCT DOJAEJUNG}{}{2023-04-17}{BG}{3}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT DOJAEJUNG][][2023-04-17][BG][3][SM Entertainment].webp?raw=true}
 {NCT Dream}{}{2016-08-25}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][][2016-08-25][BG][7][SM Entertainment].jpg?raw=true}
 {NCT U}{}{2016-04-09}{BG}{23}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][][2016-04-09][BG][23][SM Entertainment].jpg?raw=true}
 {NCT x aespa}{}{2020-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][][2020-12-27][MIX][12][SM Entertainment].jpg?raw=true}
