@@ -77,6 +77,7 @@
 {Jessi}{Jessica H.o.}{2005-12-01}{GG}{1}{PNation}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Jessica H.o.][2005-12-01][GG][1][PNation].jpg?raw=true}
 {JIHYO (Twice)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
 {JISOO (Blackpink)}{Kim Ji-soo}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (Blackpink)][Kim Ji-soo][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
+{Joy (Red Velvet)}{Park Soo-young}{2014-08-01}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Joy (Red Velvet)][Park Soo-young][2014-08-01][GG][1][SM Entertainment].jpg?raw=true}
 {Jungkook (BTS)}{Jeon Jung-kook}{2013-06-13}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Jungkook (BTS)][Jeon Jung-kook][2013-06-13][BG][1][Big Hit Entertainment].jpg?raw=true}
 {JUST B}{}{2021-06-30}{BG}{6}{Blue Dot Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][][2021-06-30][BG][6][Blue Dot Entertainment].jpg?raw=true}
 {KAI (EXO)}{Kim Jong-in}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][Kim Jong-in][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
