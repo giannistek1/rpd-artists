@@ -3,7 +3,7 @@
 {2PM}{}{2008-09-04}{BG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[2PM][][2008-09-04][BG][6][JYP Entertainment].jpg?raw=true}
 {3YE}{}{2019-05-21}{GG}{3}{GH Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[3YE][][2019-05-21][GG][3][GH Entertainment].jpg?raw=true}
 {4Minute}{}{2009-06-15}{GG}{5}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[4Minute][][2009-06-15][GG][5][Cube Entertainment].jpg?raw=true}
-{A.C.E}{}{2017-05-23}{BG}{5}{Beat Interactive}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][][2017-05-23][BG][5][Beat Interactive].webp?raw=true}
+{A.C.E}{ACE, Adventure Calling Emotions}{2017-05-23}{BG}{5}{Beat Interactive}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][ACE, Adventure Calling Emotions][2017-05-23][BG][5][Beat Interactive].webp?raw=true}
 {aespa}{}{2020-11-17}{GG}{4}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][][2020-11-17][GG][4][SM Entertainment].jpg?raw=true}
 {Agust D (BTS)}{Suga}{2016-08-16}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Agust D (BTS)][Suga][2016-08-16][BG][1][Big Hit Entertainment].jpg?raw=true}
 {Ailee}{Amy Lee}{2012-02-08}{GG}{1}{A2Z Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][Amy Lee][2012-02-08][GG][1][A2Z Entertainment].png?raw=true}
@@ -44,7 +44,7 @@
 {f(x)}{}{2009-09-05}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][][2009-09-05][GG][5][SM Entertainment].webp?raw=true}
 {Fin.K.L.}{}{1998-05-20}{GG}{4}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Fin.K.L.][][1998-05-20][GG][4][DSP Media].jpg?raw=true}
 {fromis_9}{}{2018-01-24}{GG}{9}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][][2018-01-24][GG][9][Pledis Entertainment].webp?raw=true}
-{GD X Taeyang}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
+{GD X Taeyang (BIGBANG)}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang (BIGBANG)][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
 {GFRIEND}{}{2015-01-15}{GG}{6}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][][2015-01-15][GG][6][Source Music].jpg?raw=true}
 {Girls Generation (SNSD)}{SNSD}{2007-08-05}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][SNSD][2007-08-05][GG][8][SM Entertainment].webp?raw=true}
 {GISELLE (aespa)}{Aeri Uchinaga}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GISELLE (aespa)][Aeri Uchinaga][2020-11-17][GG][1][SM Entertainment].png?raw=true}
