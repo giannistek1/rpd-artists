@@ -141,6 +141,7 @@
 {SuperM}{}{2019-10-04}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SuperM][][2019-10-04][BG][7][SM Entertainment].png?raw=true}
 {T-ARA}{}{2009-07-29}{GG}{6}{MBK Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[T-ARA][][2009-07-29][GG][6][MBK Entertainment].jpg?raw=true}
 {TAEMIN (SHINee)}{Lee Tae-min}{2008-05-25}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEMIN (SHINee)][Lee Tae-min][2008-05-25][BG][1][SM Entertainment].jpg?raw=true}
+{Taeyang (BIGBANG)}{Dong Young-bae, SOL}{2008-05-22}{BG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyang (BIGBANG)][Dong Young-bae, SOL][2008-05-22][BG][1][YG Entertainment].jpg?raw=true}
 {Taeyeon (SNSD)}{Kim Tae-yeon}{2007-08-05}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][Kim Tae-yeon][2007-08-05][GG][1][SM Entertainment].png?raw=true}
 {TAEYONG (NCT 127)}{Lee Tae-yong}{2016-07-07}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEYONG (NCT 127)][Lee Tae-yong][2016-07-07][BG][1][SM Entertainment].jpg?raw=true}
 {Teen Top}{}{2010-07-10}{BG}{6}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][][2010-07-10][BG][6][TOP Media].jpeg?raw=true}
