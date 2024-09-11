@@ -70,7 +70,7 @@
 {IVE}{I Have}{2021-12-01}{GG}{6}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][I Have][2021-12-01][GG][6][Starship Entertainment].webp?raw=true}
 {IZ ONE}{IZONE}{2018-10-29}{GG}{12}{Off the Record Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][IZONE][2018-10-29][GG][12][Off the Record Entertainment].webp?raw=true}
 {J-Hope (BTS)}{Jung Ho-seok}{2013-06-13}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[J-Hope (BTS)][Jung Ho-seok][2013-06-13][BG][1][Big Hit Entertainment].jpg?raw=true}
-{J.Y. Park}{Park Jin-young, JYP}{1994-09-01}{BG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][Park Jin-young, JYP][1994-09-01][BG][1][JYP Entertainment].jpg?raw=true}
+{J.Y. Park}{Park Jin-young, The Asiansoul, JYP}{1994-09-01}{BG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][Park Jin-young, The Asiansoul, JYP][1994-09-01][BG][1][JYP Entertainment].jpg?raw=true}
 {Jackson Wang (GOT7)}{Jackson}{2014-01-16}{BG}{1}{Team Wang}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang (GOT7)][Jackson][2014-01-16][BG][1][Team Wang].jpg?raw=true}
 {Jay Park}{Park Jae-beom}{2008-08-29}{BG}{1}{AOMG}{https://github.com/giannistek1/rpd-audio/blob/main/[Jay Park][Park Jae-beom][2008-08-29][BG][1][AOMG].jpg?raw=true}
 {JENNIE (Blackpink)}{Jennie Kim}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (Blackpink)][Jennie Kim][2016-08-08][GG][1][YG Entertainment].jpg?raw=true}
@@ -157,6 +157,7 @@
 {Twice}{TWICE}{2015-10-20}{GG}{9}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][TWICE][2015-10-20][GG][9][JYP Entertainment].webp?raw=true}
 {TWS}{Two-us, Twenty Four Seven With Us}{2020-08-04}{BG}{7}{By Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][Two-us, Twenty Four Seven With Us][2020-08-04][BG][7][By Creative].jpg?raw=true}
 {TXT}{Tomorrow X Together}{2019-03-04}{BG}{5}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][Tomorrow X Together][2019-03-04][BG][5][Big Hit Entertainment].jpg?raw=true}
+{TZUYU (Twice)}{Chou Tzu-yu}{2024-09-06}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TZUYU (Twice)][Chou Tzu-yu][2024-09-06][GG][1][JYP Entertainment].jpg?raw=true}
 {VICTON}{Voice to New World}{2016-11-09}{BG}{7}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Voice to New World][2016-11-09][BG][7][IST Entertainment].png?raw=true}
 {VIVIZ}{VIVIZ}{2022-02-09}{GG}{3}{Big Planet Made}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VIVIZ][2022-02-09][GG][3][Big Planet Made].jpg?raw=true}
 {VIXX}{}{2012-05-24}{BG}{6}{Jellyfish Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[VIXX][][2012-05-24][BG][6][Jellyfish Entertainment].jpg?raw=true}
