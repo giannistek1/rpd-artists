@@ -74,6 +74,7 @@
 {Jackson Wang (GOT7)}{Jackson}{2014-01-16}{BG}{1}{Team Wang}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang (GOT7)][Jackson][2014-01-16][BG][1][Team Wang].jpg?raw=true}
 {Jay Park}{Park Jae-beom}{2008-08-29}{BG}{1}{AOMG}{https://github.com/giannistek1/rpd-audio/blob/main/[Jay Park][Park Jae-beom][2008-08-29][BG][1][AOMG].jpg?raw=true}
 {JENNIE (Blackpink)}{Jennie Kim}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (Blackpink)][Jennie Kim][2016-08-08][GG][1][YG Entertainment].jpg?raw=true}
+{JEON SOMI}{Jeon So-mi, Ennik Somi Douma}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[JEON SOMI][Jeon So-mi, Ennik Somi Douma][2016-05-04][GG][1][The Black Label].jpg?raw=true}
 {Jessi}{Jessica H.o.}{2005-12-01}{GG}{1}{PNation}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Jessica H.o.][2005-12-01][GG][1][PNation].jpg?raw=true}
 {JIHYO (Twice)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
 {JISOO (Blackpink)}{Kim Ji-soo}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (Blackpink)][Kim Ji-soo][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
@@ -133,7 +134,6 @@
 {SHINHWA}{}{1998-03-24}{BG}{6}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINHWA][][1998-03-24][BG][6][SM Entertainment].jpg?raw=true}
 {SISTAR}{}{2010-06-03}{GG}{4}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SISTAR][][2010-06-03][GG][4][Starship Entertainment].jpg?raw=true}
 {Solar (Mamamoo)}{Kim Yong-sun}{2014-06-19}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (Mamamoo)][Kim Yong-sun][2014-06-19][GG][1][RBW Entertainment].webp?raw=true}
-{SOMI}{Jeon So-mi}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[SOMI][Jeon So-mi][2016-05-04][GG][1][The Black Label].jpg?raw=true}
 {Sparkling}{}{2022-09-13}{BG}{5}{SF Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Sparkling][][2022-09-13][BG][5][SF Entertainment].jpeg?raw=true}
 {STAYC}{Star To A Young Culture}{2020-11-12}{GG}{6}{High Up Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[STAYC][Star To A Young Culture][2020-11-12][GG][6][High Up Entertainment].webp?raw=true}
 {Stray Kids}{SKZ}{2018-03-25}{BG}{8}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][SKZ][2018-03-25][BG][8][JYP Entertainment].jpg?raw=true}
