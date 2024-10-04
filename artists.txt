@@ -27,7 +27,7 @@
 {Brown Eyed Girls}{BEG}{2006-03-02}{GG}{4}{Mystic Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Brown Eyed Girls][BEG][2006-03-02][GG][4][Mystic Entertainment].jpg?raw=true}
 {BTS}{Bangtan Sonyeondan}{2013-06-13}{BG}{7}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BTS][Bangtan Sonyeondan][2013-06-13][BG][7][Big Hit Entertainment].jpg?raw=true}
 {Cherry Bullet}{}{2019-01-21}{GG}{7}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Cherry Bullet][][2019-01-21][GG][7][FNC Entertainment].jpg?raw=true}
-{CHUNG HA (I.O.I.)}{Chungha}{2017-06-07}{GG}{1}{MN Music}{https://github.com/giannistek1/rpd-audio/blob/main/[CHUNG HA (I.O.I.)][Chungha][2017-06-07][GG][1][MN Music].webp?raw=true}
+{CHUNG HA (I.O.I)}{Chungha}{2017-06-07}{GG}{1}{MN Music}{https://github.com/giannistek1/rpd-audio/blob/main/[CHUNG HA (I.O.I)][Chungha][2017-06-07][GG][1][MN Music].webp?raw=true}
 {CIX}{Complete In X}{2019-07-23}{BG}{5}{C9 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][Complete In X][2019-07-23][BG][5][C9 Entertainment].jpg?raw=true}
 {CLC}{CrystaL Clear}{2015-03-19}{GG}{7}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CLC][CrystaL Clear][2015-03-19][GG][7][Cube Entertainment].jpg?raw=true}
 {CRAVITY}{}{2020-04-14}{BG}{9}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CRAVITY][][2020-04-14][BG][9][Starship Entertainment].webp?raw=true}
@@ -74,7 +74,7 @@
 {Jackson Wang (GOT7)}{Jackson}{2014-01-16}{BG}{1}{Team Wang}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang (GOT7)][Jackson][2014-01-16][BG][1][Team Wang].jpg?raw=true}
 {Jay Park}{Park Jae-beom}{2008-08-29}{BG}{1}{AOMG}{https://github.com/giannistek1/rpd-audio/blob/main/[Jay Park][Park Jae-beom][2008-08-29][BG][1][AOMG].jpg?raw=true}
 {JENNIE (Blackpink)}{Jennie Kim}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (Blackpink)][Jennie Kim][2016-08-08][GG][1][YG Entertainment].jpg?raw=true}
-{JEON SOMI (I.O.I.)}{Jeon So-mi, Ennik Somi Douma}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[JEON SOMI (I.O.I.)][Jeon So-mi, Ennik Somi Douma][2016-05-04][GG][1][The Black Label].jpg?raw=true}
+{JEON SOMI (I.O.I)}{Jeon So-mi, Ennik Somi Douma}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[JEON SOMI (I.O.I)][Jeon So-mi, Ennik Somi Douma][2016-05-04][GG][1][The Black Label].jpg?raw=true}
 {Jessi}{Jessica H.o.}{2005-12-01}{GG}{1}{PNation}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Jessica H.o.][2005-12-01][GG][1][PNation].jpg?raw=true}
 {JIHYO (Twice)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
 {JISOO (Blackpink)}{Kim Ji-soo}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (Blackpink)][Kim Ji-soo][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
