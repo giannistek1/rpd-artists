@@ -27,7 +27,7 @@
 {Brown Eyed Girls}{BEG}{2006-03-02}{GG}{4}{Mystic Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Brown Eyed Girls][BEG][2006-03-02][GG][4][Mystic Entertainment].jpg?raw=true}
 {BTS}{Bangtan Sonyeondan}{2013-06-13}{BG}{7}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BTS][Bangtan Sonyeondan][2013-06-13][BG][7][Big Hit Entertainment].jpg?raw=true}
 {Cherry Bullet}{}{2019-01-21}{GG}{7}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Cherry Bullet][][2019-01-21][GG][7][FNC Entertainment].jpg?raw=true}
-{CHUNG HA}{Chungha}{2017-06-07}{GG}{1}{MN Music}{https://github.com/giannistek1/rpd-audio/blob/main/[CHUNG HA][Chungha][2017-06-07][GG][1][MN Music].webp?raw=true}
+{CHUNG HA (I.O.I.)}{Chungha}{2017-06-07}{GG}{1}{MN Music}{https://github.com/giannistek1/rpd-audio/blob/main/[CHUNG HA (I.O.I.)][Chungha][2017-06-07][GG][1][MN Music].webp?raw=true}
 {CIX}{Complete In X}{2019-07-23}{BG}{5}{C9 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][Complete In X][2019-07-23][BG][5][C9 Entertainment].jpg?raw=true}
 {CLC}{CrystaL Clear}{2015-03-19}{GG}{7}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CLC][CrystaL Clear][2015-03-19][GG][7][Cube Entertainment].jpg?raw=true}
 {CRAVITY}{}{2020-04-14}{BG}{9}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CRAVITY][][2020-04-14][BG][9][Starship Entertainment].webp?raw=true}
@@ -58,8 +58,8 @@
 {HYOYEON (SNSD)}{DJ HYO}{2007-08-05}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON (SNSD)][DJ HYO][2007-08-05][GG][1][SM Entertainment].jpg?raw=true}
 {HyunA & Dawn}{}{2019-11-05}{MIX}{2}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA & Dawn][][2019-11-05][MIX][2][P Nation].webp?raw=true}
 {HyunA (4Minute)}{Kim Hyun-a}{2007-02-10}{GG}{1}{P Nation}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA (4Minute)][Kim Hyun-a][2007-02-10][GG][1][P Nation].jpg?raw=true}
-{I-LAND2}{}{2024-04-18}{MIX}{11}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND2][][2024-04-18][MIX][11][HYBE Labels].webp?raw=true}
-{I-LAND}{}{2020-06-26}{MIX}{23}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND][][2020-06-26][MIX][23][HYBE Labels].jpg?raw=true}
+{I-LAND2}{}{2024-04-18}{GG}{11}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND2][][2024-04-18][GG][11][HYBE Labels].webp?raw=true}
+{I-LAND}{}{2020-06-26}{BG}{23}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND][][2020-06-26][BG][23][HYBE Labels].jpg?raw=true}
 {I.O.I}{Ideal of Idol}{2016-05-04}{GG}{11}{YMC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[I.O.I][Ideal of Idol][2016-05-04][GG][11][YMC Entertainment].jpg?raw=true}
 {iKON}{}{2015-09-15}{BG}{6}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[iKON][][2015-09-15][BG][6][YG Entertainment].jpg?raw=true}
 {ILLIT}{}{2022-03-23}{GG}{5}{C9 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT][][2022-03-23][GG][5][C9 Entertainment].jpg?raw=true}
@@ -74,7 +74,7 @@
 {Jackson Wang (GOT7)}{Jackson}{2014-01-16}{BG}{1}{Team Wang}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang (GOT7)][Jackson][2014-01-16][BG][1][Team Wang].jpg?raw=true}
 {Jay Park}{Park Jae-beom}{2008-08-29}{BG}{1}{AOMG}{https://github.com/giannistek1/rpd-audio/blob/main/[Jay Park][Park Jae-beom][2008-08-29][BG][1][AOMG].jpg?raw=true}
 {JENNIE (Blackpink)}{Jennie Kim}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (Blackpink)][Jennie Kim][2016-08-08][GG][1][YG Entertainment].jpg?raw=true}
-{JEON SOMI}{Jeon So-mi, Ennik Somi Douma}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[JEON SOMI][Jeon So-mi, Ennik Somi Douma][2016-05-04][GG][1][The Black Label].jpg?raw=true}
+{JEON SOMI (I.O.I.)}{Jeon So-mi, Ennik Somi Douma}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[JEON SOMI (I.O.I.)][Jeon So-mi, Ennik Somi Douma][2016-05-04][GG][1][The Black Label].jpg?raw=true}
 {Jessi}{Jessica H.o.}{2005-12-01}{GG}{1}{PNation}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Jessica H.o.][2005-12-01][GG][1][PNation].jpg?raw=true}
 {JIHYO (Twice)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
 {JISOO (Blackpink)}{Kim Ji-soo}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (Blackpink)][Kim Ji-soo][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
@@ -175,7 +175,7 @@
 {X1}{}{2019-08-27}{BG}{11}{Swing Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[X1][][2019-08-27][BG][11][Swing Entertainment].jpg?raw=true}
 {XG}{Xtraordinary Girls}{2022-03-18}{GG}{7}{XGALX}{https://github.com/giannistek1/rpd-audio/blob/main/[XG][Xtraordinary Girls][2022-03-18][GG][7][XGALX].jpg?raw=true}
 {xikers}{KQ Fellaz 2}{2023-03-30}{BG}{10}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][KQ Fellaz 2][2023-03-30][BG][10][KQ Entertainment].jpg?raw=true}
-{Yena}{Choi Ye-na}{2018-10-29}{GG}{1}{Yuehua Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Yena][Choi Ye-na][2018-10-29][GG][1][Yuehua Entertainment].jpg?raw=true}
+{YENA (IZ ONE)}{Choi Ye-na}{2018-10-29}{GG}{1}{Yuehua Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[YENA (IZ ONE)][Choi Ye-na][2018-10-29][GG][1][Yuehua Entertainment].jpg?raw=true}
 {YOUNG POSSE}{}{2023-10-25}{GG}{5}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][][2023-10-25][GG][5][DSP Media].jpg?raw=true}
 {Yuju}{Choi Yu-na}{2015-01-15}{GG}{1}{Konnect Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Yuju][Choi Yu-na][2015-01-15][GG][1][Konnect Entertainment].jpg?raw=true}
 {ZEROBASEONE}{ZB1}{2023-07-10}{BG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][ZB1][2023-07-10][BG][9][Wake One].jpg?raw=true}
