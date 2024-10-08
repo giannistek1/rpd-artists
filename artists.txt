@@ -112,6 +112,7 @@
 {NewJeans}{}{2022-07-22}{GG}{5}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][][2022-07-22][GG][5][HYBE Labels].jpg?raw=true}
 {NINGNING (aespa}{Ning Yizhuo}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NINGNING (aespa][Ning Yizhuo][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][][2022-02-22][GG][6][JYP Entertainment].jpg?raw=true}
+{NSYNC}{}{1995-10-22}{BG}{5}{RCA Records}{https://github.com/giannistek1/rpd-audio/blob/main/[NSYNC][][1995-10-22][BG][5][RCA Records].webp?raw=true}
 {OH MY GIRL}{OMG}{2015-04-20}{GG}{7}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][OMG][2015-04-20][GG][7][WM Entertainment].webp?raw=true}
 {OMEGA X}{}{2021-06-30}{BG}{11}{SPIRE Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OMEGA X][][2021-06-30][BG][11][SPIRE Entertainment].jpg?raw=true}
 {ONEUS}{}{2019-01-09}{BG}{6}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][][2019-01-09][BG][6][RBW Entertainment].jpg?raw=true}
