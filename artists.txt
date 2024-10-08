@@ -93,6 +93,8 @@
 {Lee Jinhyuk (UP10TION)}{Wei}{2014-11-17}{BG}{1}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][Wei][2014-11-17][BG][1][TOP Media].jpg?raw=true}
 {LISA (Blackpink)}{Lalisa Manoban}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][Lalisa Manoban][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
 {LOONA}{}{2018-08-20}{GG}{12}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][][2018-08-20][GG][12][Blockberry Creative].webp?raw=true}
+{LUCAS (NCT)}{Wong Yuk-hei}{2018-03-14}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LUCAS (NCT)][Wong Yuk-hei][2018-03-14][BG][1][SM Entertainment].webp?raw=true}
+{Mamamoo+}{Mamamoo plus, Solar, Moonbyul}{2022-08-30}{GG}{2}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo+][Mamamoo plus, Solar, Moonbyul][2022-08-30][GG][2][RBW Entertainment].jpg?raw=true}
 {Mamamoo}{}{2014-06-19}{GG}{4}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][][2014-06-19][GG][4][RBW Entertainment].jpg?raw=true}
 {MCND}{Music Creates New Dream}{2020-02-27}{BG}{5}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][Music Creates New Dream][2020-02-27][BG][5][TOP Media].jpg?raw=true}
 {MIRAE}{}{2021-03-17}{BG}{7}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][][2021-03-17][BG][7][DSP Media].jpg?raw=true}
@@ -100,6 +102,7 @@
 {MOMOLAND & Natti Natasha}{}{2016-11-10}{GG}{6}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND & Natti Natasha][][2016-11-10][GG][6][MLD Entertainment].webp?raw=true}
 {MOMOLAND}{}{2016-11-10}{GG}{9}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][][2016-11-10][GG][9][MLD Entertainment].jpg?raw=true}
 {MONSTA X}{}{2015-05-14}{BG}{6}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MONSTA X][][2015-05-14][BG][6][Starship Entertainment].jpg?raw=true}
+{Moonbyul (Mamamoo)}{Moon Byul-yi}{2018-05-23}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Moonbyul (Mamamoo)][Moon Byul-yi][2018-05-23][GG][1][RBW Entertainment].jpg?raw=true}
 {NAYEON (Twice)}{Im Na-yeon}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (Twice)][Im Na-yeon][2015-10-20][GG][1][JYP Entertainment].webp?raw=true}
 {NCT 127}{}{2016-07-07}{BG}{10}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][][2016-07-07][BG][10][SM Entertainment].webp?raw=true}
 {NCT DOJAEJUNG}{}{2023-04-17}{BG}{3}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT DOJAEJUNG][][2023-04-17][BG][3][SM Entertainment].webp?raw=true}
@@ -166,6 +169,7 @@
 {Weeekly}{}{2020-06-30}{GG}{7}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Weeekly][][2020-06-30][GG][7][IST Entertainment].jpg?raw=true}
 {WEi}{}{2020-10-05}{BG}{6}{OUI Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WEi][][2020-10-05][BG][6][OUI Entertainment].jpg?raw=true}
 {Weki Meki}{WEME}{2017-08-08}{GG}{8}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[Weki Meki][WEME][2017-08-08][GG][8][Fantagio].jpg?raw=true}
+{Wheein (Mamamoo)}{Jung Whee-in}{2018-04-17}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Wheein (Mamamoo)][Jung Whee-in][2018-04-17][GG][1][RBW Entertainment].webp?raw=true}
 {WINNER}{}{2014-08-17}{BG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WINNER][][2014-08-17][BG][4][YG Entertainment].png?raw=true}
 {WINTER (aespa)}{Kim Minjeong}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WINTER (aespa)][Kim Minjeong][2020-11-17][GG][1][SM Entertainment].jpg?raw=true}
 {WJSN CHOCOME}{WJSN}{2020-10-07}{GG}{4}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN CHOCOME][WJSN][2020-10-07][GG][4][Starship Entertainment].jpg?raw=true}
