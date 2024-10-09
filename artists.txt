@@ -97,6 +97,7 @@
 {Mamamoo+}{Mamamoo plus, Solar, Moonbyul}{2022-08-30}{GG}{2}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo+][Mamamoo plus, Solar, Moonbyul][2022-08-30][GG][2][RBW Entertainment].jpg?raw=true}
 {Mamamoo}{}{2014-06-19}{GG}{4}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][][2014-06-19][GG][4][RBW Entertainment].jpg?raw=true}
 {MCND}{Music Creates New Dream}{2020-02-27}{BG}{5}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][Music Creates New Dream][2020-02-27][BG][5][TOP Media].jpg?raw=true}
+{MEOVV}{My Eyes Open VVide}{2024-09-06}{GG}{5}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[MEOVV][My Eyes Open VVide][2024-09-06][GG][5][The Black Label].jpg?raw=true}
 {MIRAE}{}{2021-03-17}{BG}{7}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][][2021-03-17][BG][7][DSP Media].jpg?raw=true}
 {MISAMO (Twice)}{}{2023-07-26}{GG}{3}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MISAMO (Twice)][][2023-07-26][GG][3][JYP Entertainment].jpg?raw=true}
 {MOMOLAND & Natti Natasha}{}{2016-11-10}{GG}{6}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND & Natti Natasha][][2016-11-10][GG][6][MLD Entertainment].webp?raw=true}
