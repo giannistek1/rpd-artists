@@ -182,6 +182,7 @@
 {XG}{Xtraordinary Girls}{2022-03-18}{GG}{7}{XGALX}{https://github.com/giannistek1/rpd-audio/blob/main/[XG][Xtraordinary Girls][2022-03-18][GG][7][XGALX].jpg?raw=true}
 {xikers}{KQ Fellaz 2}{2023-03-30}{BG}{10}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][KQ Fellaz 2][2023-03-30][BG][10][KQ Entertainment].jpg?raw=true}
 {YENA (IZ ONE)}{Choi Ye-na}{2018-10-29}{GG}{1}{Yuehua Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[YENA (IZ ONE)][Choi Ye-na][2018-10-29][GG][1][Yuehua Entertainment].jpg?raw=true}
+{Yeonjun (TXT)}{Choi Yeon-jun}{2024-09-19}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Yeonjun (TXT)][Choi Yeon-jun][2024-09-19][BG][1][Big Hit Entertainment].jpg?raw=true}
 {YOUNG POSSE}{}{2023-10-25}{GG}{5}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][][2023-10-25][GG][5][DSP Media].jpg?raw=true}
 {Yuju}{Choi Yu-na}{2015-01-15}{GG}{1}{Konnect Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Yuju][Choi Yu-na][2015-01-15][GG][1][Konnect Entertainment].jpg?raw=true}
 {ZEROBASEONE}{ZB1}{2023-07-10}{BG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][ZB1][2023-07-10][BG][9][Wake One].jpg?raw=true}
