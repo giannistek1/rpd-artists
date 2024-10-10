@@ -29,6 +29,7 @@
 {Cherry Bullet}{}{2019-01-21}{GG}{7}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Cherry Bullet][][2019-01-21][GG][7][FNC Entertainment].jpg?raw=true}
 {CHUNG HA (I.O.I)}{Chungha}{2017-06-07}{GG}{1}{MN Music}{https://github.com/giannistek1/rpd-audio/blob/main/[CHUNG HA (I.O.I)][Chungha][2017-06-07][GG][1][MN Music].webp?raw=true}
 {CIX}{Complete In X}{2019-07-23}{BG}{5}{C9 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][Complete In X][2019-07-23][BG][5][C9 Entertainment].jpg?raw=true}
+{CL (2NE1)}{Lee Chae-rin}{2013-05-28}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CL (2NE1)][Lee Chae-rin][2013-05-28][GG][1][YG Entertainment].jpg?raw=true}
 {CLC}{CrystaL Clear}{2015-03-19}{GG}{7}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CLC][CrystaL Clear][2015-03-19][GG][7][Cube Entertainment].jpg?raw=true}
 {CRAVITY}{}{2020-04-14}{BG}{9}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[CRAVITY][][2020-04-14][BG][9][Starship Entertainment].webp?raw=true}
 {Crayon Pop}{}{2012-07-19}{GG}{5}{Chrome Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Crayon Pop][][2012-07-19][GG][5][Chrome Entertainment].webp?raw=true}
