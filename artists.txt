@@ -43,6 +43,7 @@
 {EXO-K}{}{2012-04-08}{BG}{6}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[EXO-K][][2012-04-08][BG][6][SM Entertainment].webp?raw=true}
 {EXO}{}{2012-04-08}{BG}{9}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[EXO][][2012-04-08][BG][9][SM Entertainment].png?raw=true}
 {f(x)}{}{2009-09-05}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][][2009-09-05][GG][5][SM Entertainment].webp?raw=true}
+{FIFTY FIFTY}{}{2022-11-18}{GG}{5}{ATTRAKT}{https://github.com/giannistek1/rpd-audio/blob/main/[FIFTY FIFTY][][2022-11-18][GG][5][ATTRAKT].png?raw=true}
 {Fin.K.L.}{}{1998-05-20}{GG}{4}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Fin.K.L.][][1998-05-20][GG][4][DSP Media].jpg?raw=true}
 {fromis_9}{}{2018-01-24}{GG}{9}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][][2018-01-24][GG][9][Pledis Entertainment].webp?raw=true}
 {GD X Taeyang (BIGBANG)}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang (BIGBANG)][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
