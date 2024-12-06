@@ -122,7 +122,7 @@
 {ONEUS}{}{2019-01-09}{BG}{6}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][][2019-01-09][BG][6][RBW Entertainment].jpg?raw=true}
 {OnlyOneOf}{OOO}{2019-05-28}{BG}{7}{8D Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OnlyOneOf][OOO][2019-05-28][BG][7][8D Entertainment].jpg?raw=true}
 {Orange Caramel}{}{2010-06-16}{GG}{3}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Orange Caramel][][2010-06-16][GG][3][Pledis Entertainment].jpg?raw=true}
-{P1Harmony}{P1H}{2020-10-28}{BG}{6}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[P1Harmony][P1H][2020-10-28][BG][6][FNC Entertainment].webp?raw=true}
+{P1Harmony}{P1H, Piwon}{2020-10-28}{BG}{6}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[P1Harmony][P1H, Piwon][2020-10-28][BG][6][FNC Entertainment].webp?raw=true}
 {PENTAGON}{}{2016-10-10}{BG}{9}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PENTAGON][][2016-10-10][BG][9][Cube Entertainment].jpeg?raw=true}
 {PLAYBACK}{}{2015-06-25}{GG}{5}{Coridel Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PLAYBACK][][2015-06-25][GG][5][Coridel Entertainment].jpg?raw=true}
 {PLEDIS Girlz}{}{2016-03-25}{GG}{10}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PLEDIS Girlz][][2016-03-25][GG][10][Pledis Entertainment].webp?raw=true}
