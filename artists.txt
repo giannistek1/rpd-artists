@@ -18,6 +18,7 @@
 {BEAST}{B2ST}{2009-10-16}{BG}{6}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][B2ST][2009-10-16][BG][6][Cube Entertainment].jpg?raw=true}
 {BIGBANG}{}{2006-08-19}{BG}{5}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][][2006-08-19][BG][5][YG Entertainment].jpg?raw=true}
 {Billie Eilish}{}{2015-11-18}{GG}{1}{Interscope Records}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie Eilish][][2015-11-18][GG][1][Interscope Records].jpg?raw=true}
+{Billie}{Mystic Rookies}{2021-11-10}{GG}{7}{Mystic Story}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie][Mystic Rookies][2021-11-10][GG][7][Mystic Story].jpg?raw=true}
 {Blackpink}{BLACKPINK}{2016-08-08}{GG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][BLACKPINK][2016-08-08][GG][4][YG Entertainment].jpg?raw=true}
 {Block B}{}{2011-04-13}{BG}{7}{Stardom Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Block B][][2011-04-13][BG][7][Stardom Entertainment].jpg?raw=true}
 {BoA}{Beat of Angel, Kwon Bo-ah}{2000-08-25}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BoA][Beat of Angel, Kwon Bo-ah][2000-08-25][GG][1][SM Entertainment].png?raw=true}
@@ -183,7 +184,7 @@
 {WJSN THE BLACK}{WJSN}{2021-05-12}{GG}{4}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN THE BLACK][WJSN][2021-05-12][GG][4][Starship Entertainment].webp?raw=true}
 {WJSN}{Cosmic Girls}{2016-02-25}{GG}{13}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN][Cosmic Girls][2016-02-25][GG][13][Starship Entertainment].jpg?raw=true}
 {Wonder Girls}{}{2007-02-13}{GG}{5}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Wonder Girls][][2007-02-13][GG][5][JYP Entertainment].webp?raw=true}
-{WOOAH}{}{2020-05-13}{GG}{5}{SSQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WOOAH][][2020-05-13][GG][5][SSQ Entertainment].jpeg?raw=true}
+{WOOAH}{}{2020-05-13}{GG}{5}{H Music Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WOOAH][][2020-05-13][GG][5][H Music Entertainment].jpeg?raw=true}
 {X1}{}{2019-08-27}{BG}{11}{Swing Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[X1][][2019-08-27][BG][11][Swing Entertainment].jpg?raw=true}
 {XG}{Xtraordinary Girls}{2022-03-18}{GG}{7}{XGALX}{https://github.com/giannistek1/rpd-audio/blob/main/[XG][Xtraordinary Girls][2022-03-18][GG][7][XGALX].jpg?raw=true}
 {xikers}{KQ Fellaz 2}{2023-03-30}{BG}{10}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][KQ Fellaz 2][2023-03-30][BG][10][KQ Entertainment].jpg?raw=true}
