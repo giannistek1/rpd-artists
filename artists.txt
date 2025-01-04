@@ -91,6 +91,7 @@
 {KATSEYE}{Cats eye}{2024-06-28}{GG}{6}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][Cats eye][2024-06-28][GG][6][HYBE Labels].jpg?raw=true}
 {KDA}{Kills, deaths, assists}{2018-11-03}{GG}{4}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[KDA][Kills, deaths, assists][2018-11-03][GG][4][Riot Games Music].png?raw=true}
 {Kep1er}{Kepler}{2022-01-03}{GG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[Kep1er][Kepler][2022-01-03][GG][9][Wake One].webp?raw=true}
+{Key (SHINee)}{Kim Ki-bum}{2018-11-06}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Key (SHINee)][Kim Ki-bum][2018-11-06][BG][1][SM Entertainment].png?raw=true}
 {KISS OF LIFE}{KIOF}{2023-07-05}{GG}{4}{S2 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][KIOF][2023-07-05][GG][4][S2 Entertainment].jpg?raw=true}
 {LE SSERAFIM}{LSF, Im fearless}{2022-05-02}{GG}{5}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SSERAFIM][LSF, Im fearless][2022-05-02][GG][5][Source Music].webp?raw=true}
 {Lee Jinhyuk (UP10TION)}{Wei}{2014-11-17}{BG}{1}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][Wei][2014-11-17][BG][1][TOP Media].jpg?raw=true}
