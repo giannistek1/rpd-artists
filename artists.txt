@@ -49,7 +49,7 @@
 {fromis_9}{}{2018-01-24}{GG}{9}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][][2018-01-24][GG][9][Pledis Entertainment].webp?raw=true}
 {GD X Taeyang (BIGBANG)}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang (BIGBANG)][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
 {GFRIEND}{}{2015-01-15}{GG}{6}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][][2015-01-15][GG][6][Source Music].jpg?raw=true}
-{Girls Generation (SNSD)}{SNSD}{2007-08-05}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][SNSD][2007-08-05][GG][8][SM Entertainment].webp?raw=true}
+{Girls Generation (SNSD)}{SNSD, GG}{2007-08-05}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][SNSD, GG][2007-08-05][GG][8][SM Entertainment].webp?raw=true}
 {GISELLE (aespa)}{Aeri Uchinaga}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GISELLE (aespa)][Aeri Uchinaga][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {GOT The Beat}{}{2022-01-03}{GG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GOT The Beat][][2022-01-03][GG][7][SM Entertainment].webp?raw=true}
 {GOT7}{}{2014-01-16}{BG}{7}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GOT7][][2014-01-16][BG][7][JYP Entertainment].webp?raw=true}
