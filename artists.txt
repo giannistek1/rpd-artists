@@ -9,11 +9,12 @@
 {Ailee}{Amy Lee}{2012-02-08}{GG}{1}{A2Z Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][Amy Lee][2012-02-08][GG][1][A2Z Entertainment].png?raw=true}
 {AOA}{Ace of Angels}{2012-07-30}{GG}{8}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Ace of Angels][2012-07-30][GG][8][FNC Entertainment].jpg?raw=true}
 {Apink}{}{2011-04-19}{GG}{6}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][][2011-04-19][GG][6][IST Entertainment].jpeg?raw=true}
+{ARTMS}{Artemis, Loona}{2024-05-31}{GG}{5}{Modhaus}{https://github.com/giannistek1/rpd-audio/blob/main/[ARTMS][Artemis, Loona][2024-05-31][GG][5][Modhaus].png?raw=true}
 {ASTRO}{Star}{2016-02-23}{BG}{6}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[ASTRO][Star][2016-02-23][BG][6][Fantagio].jpg?raw=true}
 {ATEEZ}{KQ Fellaz}{2018-10-24}{BG}{8}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][KQ Fellaz][2018-10-24][BG][8][KQ Entertainment].jpeg?raw=true}
 {B.A.P}{Best Absolute Perfect, Bap}{2012-01-26}{BG}{6}{TS Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[B.A.P][Best Absolute Perfect, Bap][2012-01-26][BG][6][TS Entertainment].jpg?raw=true}
-{BABYMONSTER}{}{2024-04-01}{GG}{7}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][][2024-04-01][GG][7][YG Entertainment].jpg?raw=true}
-{BADVILLAIN}{}{2021-06-11}{GG}{7}{Withus Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BADVILLAIN][][2021-06-11][GG][7][Withus Entertainment].jpg?raw=true}
+{BABYMONSTER}{BM}{2024-04-01}{GG}{7}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][BM][2024-04-01][GG][7][YG Entertainment].jpg?raw=true}
+{BADVILLAIN}{}{2024-06-03}{GG}{7}{BPM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BADVILLAIN][][2024-06-03][GG][7][BPM Entertainment].jpg?raw=true}
 {Baekhyun (EXO)}{Byun Baek-hyun}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Baekhyun (EXO)][Byun Baek-hyun][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
 {BEAST}{B2ST}{2009-10-16}{BG}{6}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][B2ST][2009-10-16][BG][6][Cube Entertainment].jpg?raw=true}
 {BIGBANG}{}{2006-08-19}{BG}{5}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][][2006-08-19][BG][5][YG Entertainment].jpg?raw=true}
@@ -81,6 +82,7 @@
 {Jessi}{Jessica H.o.}{2005-12-01}{GG}{1}{PNation}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Jessica H.o.][2005-12-01][GG][1][PNation].jpg?raw=true}
 {JIHYO (Twice)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
 {JISOO (Blackpink)}{Kim Ji-soo}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (Blackpink)][Kim Ji-soo][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
+{Jo Yuri (IZ ONE)}{Jo Yu-ri}{2021-10-07}{GG}{1}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[Jo Yuri (IZ ONE)][Jo Yu-ri][2021-10-07][GG][1][Wake One].jpg?raw=true}
 {Joy (Red Velvet)}{Park Soo-young}{2014-08-01}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Joy (Red Velvet)][Park Soo-young][2014-08-01][GG][1][SM Entertainment].jpg?raw=true}
 {Jungkook (BTS)}{Jeon Jung-kook}{2013-06-13}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Jungkook (BTS)][Jeon Jung-kook][2013-06-13][BG][1][Big Hit Entertainment].jpg?raw=true}
 {JUST B}{Just Burn}{2021-06-30}{BG}{6}{Blue Dot Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][Just Burn][2021-06-30][BG][6][Blue Dot Entertainment].jpg?raw=true}
@@ -96,7 +98,8 @@
 {LE SSERAFIM}{LSF, Im fearless}{2022-05-02}{GG}{5}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SSERAFIM][LSF, Im fearless][2022-05-02][GG][5][Source Music].webp?raw=true}
 {Lee Jinhyuk (UP10TION)}{Wei}{2014-11-17}{BG}{1}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][Wei][2014-11-17][BG][1][TOP Media].jpg?raw=true}
 {LISA (Blackpink)}{Lalisa Manoban}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][Lalisa Manoban][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
-{LOONA}{}{2018-08-20}{GG}{12}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][][2018-08-20][GG][12][Blockberry Creative].webp?raw=true}
+{LOONA}{Girl of the month}{2018-08-20}{GG}{12}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][Girl of the month][2018-08-20][GG][12][Blockberry Creative].webp?raw=true}
+{Loossemble}{Loona, assemble}{}{GG}{5}{CTDENM}{https://github.com/giannistek1/rpd-audio/blob/main/[Loossemble][Loona, assemble][]2023-09-16][GG][5][CTDENM].jpg?raw=true}
 {LUCAS (NCT)}{Wong Yuk-hei}{2018-03-14}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LUCAS (NCT)][Wong Yuk-hei][2018-03-14][BG][1][SM Entertainment].webp?raw=true}
 {Mamamoo+}{Mamamoo plus, Solar, Moonbyul}{2022-08-30}{GG}{2}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo+][Mamamoo plus, Solar, Moonbyul][2022-08-30][GG][2][RBW Entertainment].jpg?raw=true}
 {Mamamoo}{}{2014-06-19}{GG}{4}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][][2014-06-19][GG][4][RBW Entertainment].jpg?raw=true}
@@ -118,6 +121,7 @@
 {NINGNING (aespa)}{Ning Yizhuo}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NINGNING (aespa)][Ning Yizhuo][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][][2022-02-22][GG][6][JYP Entertainment].jpg?raw=true}
 {NSYNC}{}{1995-10-22}{BG}{5}{RCA Records}{https://github.com/giannistek1/rpd-audio/blob/main/[NSYNC][][1995-10-22][BG][5][RCA Records].webp?raw=true}
+{ODD EYE CIRCLE}{OEC, Loona}{2017-09-16}{GG}{3}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[ODD EYE CIRCLE][OEC, Loona][2017-09-16][GG][3][Blockberry Creative].jpg?raw=true}
 {OH MY GIRL}{OMG}{2015-04-20}{GG}{7}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][OMG][2015-04-20][GG][7][WM Entertainment].webp?raw=true}
 {Oh!GG}{Girls Generation, SNSD}{2018-09-05}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Oh!GG][Girls Generation, SNSD][2018-09-05][GG][5][SM Entertainment].jpg?raw=true}
 {OMEGA X}{}{2021-06-30}{BG}{11}{SPIRE Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OMEGA X][][2021-06-30][BG][11][SPIRE Entertainment].jpg?raw=true}
