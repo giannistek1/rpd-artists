@@ -99,7 +99,7 @@
 {Lee Jinhyuk (UP10TION)}{Wei}{2014-11-17}{BG}{1}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][Wei][2014-11-17][BG][1][TOP Media].jpg?raw=true}
 {LISA (Blackpink)}{Lalisa Manoban}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][Lalisa Manoban][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
 {LOONA}{Girl of the month}{2018-08-20}{GG}{12}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][Girl of the month][2018-08-20][GG][12][Blockberry Creative].webp?raw=true}
-{Loossemble}{Loona, assemble}{}{GG}{5}{CTDENM}{https://github.com/giannistek1/rpd-audio/blob/main/[Loossemble][Loona, assemble][]2023-09-16][GG][5][CTDENM].jpg?raw=true}
+{Loossemble}{Loona, assemble}{2023-09-16}{GG}{5}{CTDENM}{https://github.com/giannistek1/rpd-audio/blob/main/[Loossemble][Loona, assemble][2023-09-16][GG][5][CTDENM].jpg?raw=true}
 {LUCAS (NCT)}{Wong Yuk-hei}{2018-03-14}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LUCAS (NCT)][Wong Yuk-hei][2018-03-14][BG][1][SM Entertainment].webp?raw=true}
 {Mamamoo+}{Mamamoo plus, Solar, Moonbyul}{2022-08-30}{GG}{2}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo+][Mamamoo plus, Solar, Moonbyul][2022-08-30][GG][2][RBW Entertainment].jpg?raw=true}
 {Mamamoo}{}{2014-06-19}{GG}{4}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][][2014-06-19][GG][4][RBW Entertainment].jpg?raw=true}
