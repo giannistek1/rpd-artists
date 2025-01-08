@@ -68,7 +68,8 @@
 {iKON}{}{2015-09-15}{BG}{6}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[iKON][][2015-09-15][BG][6][YG Entertainment].jpg?raw=true}
 {ILLIT}{}{2022-03-23}{GG}{5}{C9 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT][][2022-03-23][GG][5][C9 Entertainment].jpg?raw=true}
 {Infinite}{INFINITE}{2010-06-09}{BG}{6}{Woollim Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][INFINITE][2010-06-09][BG][6][Woollim Entertainment].jpg?raw=true}
-{Irene & Seulgi (Red Velvet)}{}{2020-07-06}{GG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi (Red Velvet)][][2020-07-06][GG][2][SM Entertainment].png?raw=true}
+{Irene & Seulgi (Red Velvet)}{Bae Joo-hyun, Kang Seul-gi}{2020-07-06}{GG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi (Red Velvet)][Bae Joo-hyun, Kang Seul-gi][2020-07-06][GG][2][SM Entertainment].png?raw=true}
+{Irene (Red Velvet)}{Bae Joo-hyun}{2020-07-06}{GG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene (Red Velvet)][Bae Joo-hyun][2020-07-06][GG][2][SM Entertainment].png?raw=true}
 {ITZY}{}{2019-02-12}{GG}{5}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][][2019-02-12][GG][5][JYP Entertainment].webp?raw=true}
 {IU}{Lee Ji-eun}{2008-09-18}{GG}{1}{EDAM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[IU][Lee Ji-eun][2008-09-18][GG][1][EDAM Entertainment].jpg?raw=true}
 {IVE}{I Have}{2021-12-01}{GG}{6}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][I Have][2021-12-01][GG][6][Starship Entertainment].webp?raw=true}
