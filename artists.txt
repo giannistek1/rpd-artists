@@ -176,7 +176,7 @@
 {TXT}{Tomorrow X Together}{2019-03-04}{BG}{5}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][Tomorrow X Together][2019-03-04][BG][5][Big Hit Entertainment].jpg?raw=true}
 {TZUYU (Twice)}{Chou Tzu-yu}{2024-09-06}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TZUYU (Twice)][Chou Tzu-yu][2024-09-06][GG][1][JYP Entertainment].jpg?raw=true}
 {VICTON}{Voice to New World}{2016-11-09}{BG}{7}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Voice to New World][2016-11-09][BG][7][IST Entertainment].png?raw=true}
-{VIVIZ}{VIVIZ}{2022-02-09}{GG}{3}{Big Planet Made}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VIVIZ][2022-02-09][GG][3][Big Planet Made].jpg?raw=true}
+{VIVIZ}{VIVIZ}{2022-02-09}{GG}{3}{BPM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VIVIZ][2022-02-09][GG][3][BPM Entertainment].jpg?raw=true}
 {VIXX}{}{2012-05-24}{BG}{6}{Jellyfish Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[VIXX][][2012-05-24][BG][6][Jellyfish Entertainment].jpg?raw=true}
 {Wanna One}{}{2017-08-07}{BG}{11}{Swing Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Wanna One][][2017-08-07][BG][11][Swing Entertainment].jpg?raw=true}
 {WayV}{}{2019-01-17}{BG}{7}{Label V}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][][2019-01-17][BG][7][Label V].png?raw=true}
