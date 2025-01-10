@@ -168,6 +168,7 @@
 {TEN (NCT)}{Chittaphon Leechaiyapornkul}{2016-04-09}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN (NCT)][Chittaphon Leechaiyapornkul][2016-04-09][BG][1][SM Entertainment].png?raw=true}
 {The Boyz}{TBZ}{2017-12-06}{BG}{11}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][TBZ][2017-12-06][BG][11][IST Entertainment].webp?raw=true}
 {TREASURE}{}{2020-08-07}{BG}{10}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][][2020-08-07][BG][10][YG Entertainment].webp?raw=true}
+{TRI.BE}{Triangle, perfect being}{2021-02-10}{GG}{7}{TR Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TRI.BE][Triangle, perfect being][2021-02-10][GG][7][TR Entertainment].png?raw=true}
 {Triple H}{}{2017-05-01}{MIX}{3}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Triple H][][2017-05-01][MIX][3][Cube Entertainment].png?raw=true}
 {Trouble Maker}{}{2011-12-01}{MIX}{2}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Trouble Maker][][2011-12-01][MIX][2][Cube Entertainment].jpg?raw=true}
 {True Damage}{}{2019-11-10}{MIX}{5}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[True Damage][][2019-11-10][MIX][5][Riot Games Music].jpg?raw=true}
