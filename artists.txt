@@ -48,6 +48,7 @@
 {FIFTY FIFTY}{}{2022-11-18}{GG}{5}{ATTRAKT}{https://github.com/giannistek1/rpd-audio/blob/main/[FIFTY FIFTY][][2022-11-18][GG][5][ATTRAKT].png?raw=true}
 {Fin.K.L.}{}{1998-05-20}{GG}{4}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Fin.K.L.][][1998-05-20][GG][4][DSP Media].jpg?raw=true}
 {fromis_9}{}{2018-01-24}{GG}{9}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][][2018-01-24][GG][9][Pledis Entertainment].webp?raw=true}
+{G-DRAGON (BIGBANG)}{Kwon Ji-yong, King of K-pop}{2009-08-18}{BG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[G-DRAGON (BIGBANG)][Kwon Ji-yong, King of K-pop][2009-08-18][BG][1][YG Entertainment].jpg?raw=true}
 {GD X Taeyang (BIGBANG)}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang (BIGBANG)][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
 {GFRIEND}{}{2015-01-15}{GG}{6}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][][2015-01-15][GG][6][Source Music].jpg?raw=true}
 {Girls Generation (SNSD)}{SNSD, GG}{2007-08-05}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][SNSD, GG][2007-08-05][GG][8][SM Entertainment].webp?raw=true}
