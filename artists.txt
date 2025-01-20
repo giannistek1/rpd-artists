@@ -173,6 +173,7 @@
 {TREASURE}{}{2020-08-07}{BG}{10}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][][2020-08-07][BG][10][YG Entertainment].webp?raw=true}
 {TRI.BE}{Triangle, perfect being}{2021-02-10}{GG}{7}{TR Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TRI.BE][Triangle, perfect being][2021-02-10][GG][7][TR Entertainment].png?raw=true}
 {Triple H}{}{2017-05-01}{MIX}{3}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Triple H][][2017-05-01][MIX][3][Cube Entertainment].png?raw=true}
+{tripleS}{SSS, The Idol of all Possibilities, Social, Sonyo, Seoul}{2023-02-13}{GG}{24}{Modhaus}{https://github.com/giannistek1/rpd-audio/blob/main/[tripleS][SSS, The Idol of all Possibilities, Social, Sonyo, Seoul][2023-02-13][GG][24][Modhaus].webp?raw=true}
 {Trouble Maker}{}{2011-12-01}{MIX}{2}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Trouble Maker][][2011-12-01][MIX][2][Cube Entertainment].jpg?raw=true}
 {True Damage}{}{2019-11-10}{MIX}{5}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[True Damage][][2019-11-10][MIX][5][Riot Games Music].jpg?raw=true}
 {TVXQ}{DBSK}{2003-12-26}{BG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TVXQ][DBSK][2003-12-26][BG][2][SM Entertainment].jpg?raw=true}
