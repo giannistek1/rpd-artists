@@ -9,7 +9,7 @@
 {Ailee}{Amy Lee}{2012-02-08}{GG}{1}{A2Z Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][Amy Lee][2012-02-08][GG][1][A2Z Entertainment].png?raw=true}
 {AOA}{Ace of Angels}{2012-07-30}{GG}{8}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Ace of Angels][2012-07-30][GG][8][FNC Entertainment].jpg?raw=true}
 {Apink}{}{2011-04-19}{GG}{6}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][][2011-04-19][GG][6][IST Entertainment].jpeg?raw=true}
-{APRIL}{}{2015-08-24}{GG}{6}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[APRIL][][2015-08-24][GG][6][DSP Media].jpg?raw=true}
+{APRIL}{the best, lovely girls}{2015-08-24}{GG}{6}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[APRIL][the best, lovely girls][2015-08-24][GG][6][DSP Media].jpg?raw=true}
 {ARTMS}{Artemis, Loona}{2024-05-31}{GG}{5}{Modhaus}{https://github.com/giannistek1/rpd-audio/blob/main/[ARTMS][Artemis, Loona][2024-05-31][GG][5][Modhaus].png?raw=true}
 {ASTRO}{Star}{2016-02-23}{BG}{6}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[ASTRO][Star][2016-02-23][BG][6][Fantagio].jpg?raw=true}
 {ATEEZ}{KQ Fellaz}{2018-10-24}{BG}{8}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][KQ Fellaz][2018-10-24][BG][8][KQ Entertainment].jpeg?raw=true}
@@ -93,6 +93,7 @@
 {JUST B}{Just Burn}{2021-06-30}{BG}{6}{Blue Dot Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][Just Burn][2021-06-30][BG][6][Blue Dot Entertainment].jpg?raw=true}
 {KAI (EXO)}{Kim Jong-in}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][Kim Jong-in][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
 {KAI, SEULGI, JENO, KARINA}{}{2022-12-26}{MIX}{4}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI, SEULGI, JENO, KARINA][][2022-12-26][MIX][4][SM Entertainment].webp?raw=true}
+{KARA}{chara, sweet melody}{2007-03-29}{GG}{5}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[KARA][chara, sweet melody][2007-03-29][GG][5][DSP Media].jpg?raw=true}
 {KARD}{Cards}{2017-07-19}{MIX}{4}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Cards][2017-07-19][MIX][4][DSP Media].webp?raw=true}
 {KARINA (aespa)}{Yu Jimin}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][Yu Jimin][2020-11-17][GG][1][SM Entertainment].jpg?raw=true}
 {KATSEYE}{Cats eye}{2024-06-28}{GG}{6}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][Cats eye][2024-06-28][GG][6][HYBE Labels].jpg?raw=true}
@@ -112,7 +113,7 @@
 {MAVE}{}{2023-01-25}{GG}{4}{Metaverse Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MAVE][][2023-01-25][GG][4][Metaverse Entertainment].jpg?raw=true}
 {MCND}{Music Creates New Dream}{2020-02-27}{BG}{5}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][Music Creates New Dream][2020-02-27][BG][5][TOP Media].jpg?raw=true}
 {MEOVV}{My Eyes Open VVide}{2024-09-06}{GG}{5}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[MEOVV][My Eyes Open VVide][2024-09-06][GG][5][The Black Label].jpg?raw=true}
-{MIRAE}{}{2021-03-17}{BG}{7}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][][2021-03-17][BG][7][DSP Media].jpg?raw=true}
+{MIRAE}{Future Boys}{2021-03-17}{BG}{7}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][Future Boys][2021-03-17][BG][7][DSP Media].jpg?raw=true}
 {MISAMO (Twice)}{}{2023-07-26}{GG}{3}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MISAMO (Twice)][][2023-07-26][GG][3][JYP Entertainment].jpg?raw=true}
 {MOMOLAND & Natti Natasha}{}{2016-11-10}{GG}{6}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND & Natti Natasha][][2016-11-10][GG][6][MLD Entertainment].webp?raw=true}
 {MOMOLAND}{}{2016-11-10}{GG}{9}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][][2016-11-10][GG][9][MLD Entertainment].jpg?raw=true}
