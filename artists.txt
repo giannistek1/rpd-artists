@@ -9,6 +9,7 @@
 {Ailee}{Amy Lee}{2012-02-08}{GG}{1}{A2Z Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][Amy Lee][2012-02-08][GG][1][A2Z Entertainment].png?raw=true}
 {AOA}{Ace of Angels}{2012-07-30}{GG}{8}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Ace of Angels][2012-07-30][GG][8][FNC Entertainment].jpg?raw=true}
 {Apink}{}{2011-04-19}{GG}{6}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][][2011-04-19][GG][6][IST Entertainment].jpeg?raw=true}
+{APRIL}{}{2015-08-24}{GG}{6}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[APRIL][][2015-08-24][GG][6][DSP Media].jpg?raw=true}
 {ARTMS}{Artemis, Loona}{2024-05-31}{GG}{5}{Modhaus}{https://github.com/giannistek1/rpd-audio/blob/main/[ARTMS][Artemis, Loona][2024-05-31][GG][5][Modhaus].png?raw=true}
 {ASTRO}{Star}{2016-02-23}{BG}{6}{Fantagio}{https://github.com/giannistek1/rpd-audio/blob/main/[ASTRO][Star][2016-02-23][BG][6][Fantagio].jpg?raw=true}
 {ATEEZ}{KQ Fellaz}{2018-10-24}{BG}{8}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][KQ Fellaz][2018-10-24][BG][8][KQ Entertainment].jpeg?raw=true}
@@ -17,7 +18,7 @@
 {BADVILLAIN}{}{2024-06-03}{GG}{7}{BPM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BADVILLAIN][][2024-06-03][GG][7][BPM Entertainment].jpg?raw=true}
 {Baekhyun (EXO)}{Byun Baek-hyun}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Baekhyun (EXO)][Byun Baek-hyun][2012-04-08][BG][1][SM Entertainment].jpg?raw=true}
 {BEAST}{B2ST}{2009-10-16}{BG}{6}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][B2ST][2009-10-16][BG][6][Cube Entertainment].jpg?raw=true}
-{BIGBANG}{}{2006-08-19}{BG}{5}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][][2006-08-19][BG][5][YG Entertainment].jpg?raw=true}
+{BIGBANG}{}{2006-08-19}{BG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][][2006-08-19][BG][4][YG Entertainment].jpg?raw=true}
 {Billie Eilish}{}{2015-11-18}{GG}{1}{Interscope Records}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie Eilish][][2015-11-18][GG][1][Interscope Records].jpg?raw=true}
 {Billie}{Mystic Rookies}{2021-11-10}{GG}{7}{Mystic Story}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie][Mystic Rookies][2021-11-10][GG][7][Mystic Story].jpg?raw=true}
 {Blackpink}{BLACKPINK}{2016-08-08}{GG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][BLACKPINK][2016-08-08][GG][4][YG Entertainment].jpg?raw=true}
@@ -108,6 +109,7 @@
 {LUCAS (NCT)}{Wong Yuk-hei}{2018-03-14}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LUCAS (NCT)][Wong Yuk-hei][2018-03-14][BG][1][SM Entertainment].webp?raw=true}
 {Mamamoo+}{Mamamoo plus, Solar, Moonbyul}{2022-08-30}{GG}{2}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo+][Mamamoo plus, Solar, Moonbyul][2022-08-30][GG][2][RBW Entertainment].jpg?raw=true}
 {Mamamoo}{}{2014-06-19}{GG}{4}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][][2014-06-19][GG][4][RBW Entertainment].jpg?raw=true}
+{MAVE}{}{2023-01-25}{GG}{4}{Metaverse Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MAVE][][2023-01-25][GG][4][Metaverse Entertainment].jpg?raw=true}
 {MCND}{Music Creates New Dream}{2020-02-27}{BG}{5}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][Music Creates New Dream][2020-02-27][BG][5][TOP Media].jpg?raw=true}
 {MEOVV}{My Eyes Open VVide}{2024-09-06}{GG}{5}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[MEOVV][My Eyes Open VVide][2024-09-06][GG][5][The Black Label].jpg?raw=true}
 {MIRAE}{}{2021-03-17}{BG}{7}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][][2021-03-17][BG][7][DSP Media].jpg?raw=true}
