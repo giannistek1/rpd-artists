@@ -209,4 +209,4 @@
 {Yuju}{Choi Yu-na}{2015-01-15}{GG}{1}{Konnect Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Yuju][Choi Yu-na][2015-01-15][GG][1][Konnect Entertainment].jpg?raw=true}
 {YUQI ((G)I-DLE)}{Song Yuqi}{2021-05-13}{GG}{1}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[YUQI ((G)I-DLE)][Song Yuqi][2021-05-13][GG][1][Cube Entertainment].webp?raw=true}
 {ZEROBASEONE}{ZB1}{2023-07-10}{BG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][ZB1][2023-07-10][BG][9][Wake One].jpg?raw=true}
-{ZICO}{Woo Ji-ho}{2011-04-13}{BG}{1}{KOZ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ZICO][Woo Ji-ho][2011-04-13][BG][1][KOZ Entertainment].jpg?raw=true}
+{ZICO (Block B)}{Woo Ji-ho}{2011-04-13}{BG}{1}{KOZ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ZICO (Block B)][Woo Ji-ho][2011-04-13][BG][1][KOZ Entertainment].jpg?raw=true}
