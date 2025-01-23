@@ -179,6 +179,7 @@
 {tripleS}{SSS, The Idol of all Possibilities, Social, Sonyo, Seoul}{2023-02-13}{GG}{24}{Modhaus}{https://github.com/giannistek1/rpd-audio/blob/main/[tripleS][SSS, The Idol of all Possibilities, Social, Sonyo, Seoul][2023-02-13][GG][24][Modhaus].webp?raw=true}
 {Trouble Maker}{}{2011-12-01}{MIX}{2}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Trouble Maker][][2011-12-01][MIX][2][Cube Entertainment].jpg?raw=true}
 {True Damage}{}{2019-11-10}{MIX}{5}{Riot Games Music}{https://github.com/giannistek1/rpd-audio/blob/main/[True Damage][][2019-11-10][MIX][5][Riot Games Music].jpg?raw=true}
+{TTS (Girls Generation)}{SNSD, TaeTiSeo, Tiffany, Taeyeon, Seohyun}{2012-04-29}{GG}{3}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TTS (Girls Generation)][SNSD, TaeTiSeo, Tiffany, Taeyeon, Seohyun][2012-04-29][GG][3][SM Entertainment].jpg?raw=true}
 {TVXQ}{DBSK}{2003-12-26}{BG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TVXQ][DBSK][2003-12-26][BG][2][SM Entertainment].jpg?raw=true}
 {Twice}{TWICE}{2015-10-20}{GG}{9}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][TWICE][2015-10-20][GG][9][JYP Entertainment].webp?raw=true}
 {TWS}{Two-us, Twenty Four Seven With Us}{2020-08-04}{BG}{7}{By Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][Two-us, Twenty Four Seven With Us][2020-08-04][BG][7][By Creative].jpg?raw=true}
