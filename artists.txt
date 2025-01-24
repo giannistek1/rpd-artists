@@ -150,6 +150,7 @@
 {S.E.S.}{Sea, Eugene, Shoo}{1997-11-01}{GG}{3}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[S.E.S.][Sea, Eugene, Shoo][1997-11-01][GG][3][SM Entertainment].jpg?raw=true}
 {SECRET NUMBER}{}{2020-05-19}{GG}{6}{Vine Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][][2020-05-19][GG][6][Vine Entertainment].jpg?raw=true}
 {SEO SOOJIN}{Soojin}{2018-05-02}{GG}{1}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SEO SOOJIN][Soojin][2018-05-02][GG][1][Cube Entertainment].png?raw=true}
+{Seohyun (SNSD)}{Seo Ju-hyun, TTS}{2017-01-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Seohyun (SNSD)][Seo Ju-hyun, TTS][2017-01-17][GG][1][SM Entertainment].jpg?raw=true}
 {Seulgi (Red Velvet)}{Kang Seul-gi}{2022-10-04}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Seulgi (Red Velvet)][Kang Seul-gi][2022-10-04][GG][1][SM Entertainment].webp?raw=true}
 {Seventeen}{SVT}{2015-05-26}{BG}{13}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][SVT][2015-05-26][BG][13][Pledis Entertainment].webp?raw=true}
 {SF9}{Sensational Feeling 9}{2016-10-05}{BG}{9}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[SF9][Sensational Feeling 9][2016-10-05][BG][9][FNC Entertainment].jpg?raw=true}
@@ -167,12 +168,13 @@
 {T-ARA}{}{2009-07-29}{GG}{6}{MBK Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[T-ARA][][2009-07-29][GG][6][MBK Entertainment].jpg?raw=true}
 {TAEMIN (SHINee)}{Lee Tae-min}{2008-05-25}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEMIN (SHINee)][Lee Tae-min][2008-05-25][BG][1][SM Entertainment].jpg?raw=true}
 {Taeyang (BIGBANG)}{Dong Young-bae, SOL}{2008-05-22}{BG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyang (BIGBANG)][Dong Young-bae, SOL][2008-05-22][BG][1][YG Entertainment].jpg?raw=true}
-{Taeyeon (SNSD)}{Kim Tae-yeon}{2007-08-05}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][Kim Tae-yeon][2007-08-05][GG][1][SM Entertainment].png?raw=true}
+{Taeyeon (SNSD)}{Kim Tae-yeon, TTS}{2007-08-05}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][Kim Tae-yeon, TTS][2007-08-05][GG][1][SM Entertainment].png?raw=true}
 {TAEYONG (NCT 127)}{Lee Tae-yong}{2016-07-07}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEYONG (NCT 127)][Lee Tae-yong][2016-07-07][BG][1][SM Entertainment].jpg?raw=true}
 {Teen Top}{}{2010-07-10}{BG}{6}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][][2010-07-10][BG][6][TOP Media].jpeg?raw=true}
 {TEN & YANGYANG (WayV)}{Ten}{2019-01-17}{BG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN & YANGYANG (WayV)][Ten][2019-01-17][BG][2][SM Entertainment].jpg?raw=true}
 {TEN (NCT)}{Chittaphon Leechaiyapornkul}{2016-04-09}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN (NCT)][Chittaphon Leechaiyapornkul][2016-04-09][BG][1][SM Entertainment].png?raw=true}
 {The Boyz}{TBZ}{2017-12-06}{BG}{11}{IST Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][TBZ][2017-12-06][BG][11][IST Entertainment].webp?raw=true}
+{Tiffany (SNSD)}{Tiffany Young, TTS}{2016-05-11}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Tiffany (SNSD)][Tiffany Young, TTS][2016-05-11][GG][1][SM Entertainment].jpg?raw=true}
 {TREASURE}{}{2020-08-07}{BG}{10}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][][2020-08-07][BG][10][YG Entertainment].webp?raw=true}
 {TRI.BE}{Triangle, perfect being}{2021-02-10}{GG}{7}{TR Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[TRI.BE][Triangle, perfect being][2021-02-10][GG][7][TR Entertainment].png?raw=true}
 {Triple H}{}{2017-05-01}{MIX}{3}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Triple H][][2017-05-01][MIX][3][Cube Entertainment].png?raw=true}
