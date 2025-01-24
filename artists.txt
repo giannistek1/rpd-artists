@@ -124,7 +124,7 @@
 {NCT DOJAEJUNG}{}{2023-04-17}{BG}{3}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT DOJAEJUNG][][2023-04-17][BG][3][SM Entertainment].webp?raw=true}
 {NCT Dream}{}{2016-08-25}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][][2016-08-25][BG][7][SM Entertainment].jpg?raw=true}
 {NCT U}{}{2016-04-09}{BG}{23}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][][2016-04-09][BG][23][SM Entertainment].jpg?raw=true}
-{NCT x aespa}{}{2020-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][][2020-12-27][MIX][12][SM Entertainment].jpg?raw=true}
+{NCT x aespa}{TAEYONG, JENO, HENDERY, YANGYANG, GISELLE}{2020-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][TAEYONG, JENO, HENDERY, YANGYANG, GISELLE][2020-12-27][MIX][12][SM Entertainment].jpg?raw=true}
 {NewJeans}{}{2022-07-22}{GG}{5}{HYBE Labels}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][][2022-07-22][GG][5][HYBE Labels].jpg?raw=true}
 {NINGNING (aespa)}{Ning Yizhuo}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NINGNING (aespa)][Ning Yizhuo][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][][2022-02-22][GG][6][JYP Entertainment].jpg?raw=true}
