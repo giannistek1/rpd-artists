@@ -105,6 +105,7 @@
 {Kim Lip (LOONA)}{Kim Jung-eun, ARTMS, Odd Eye Circle}{2017-05-23}{GG}{1}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[Kim Lip (LOONA)][Kim Jung-eun, ARTMS, Odd Eye Circle][2017-05-23][GG][1][Blockberry Creative].webp?raw=true}
 {KISS OF LIFE}{KIOF}{2023-07-05}{GG}{4}{S2 Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][KIOF][2023-07-05][GG][4][S2 Entertainment].jpg?raw=true}
 {LE SSERAFIM}{LSF, Im fearless}{2022-05-02}{GG}{5}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SSERAFIM][LSF, Im fearless][2022-05-02][GG][5][Source Music].webp?raw=true}
+{Lee Chae Yeon (IZ ONE)}{Lee Chae-yeon}{2022-10-22}{GG}{1}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Chae Yeon (IZ ONE)][Lee Chae-yeon][2022-10-22][GG][1][WM Entertainment].jpg?raw=true}
 {Lee Jinhyuk (UP10TION)}{Wei}{2014-11-17}{BG}{1}{TOP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][Wei][2014-11-17][BG][1][TOP Media].jpg?raw=true}
 {LISA (Blackpink)}{Lalisa Manoban}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][Lalisa Manoban][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
 {LOONA}{Girl of the month}{2018-08-20}{GG}{12}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][Girl of the month][2018-08-20][GG][12][Blockberry Creative].webp?raw=true}
