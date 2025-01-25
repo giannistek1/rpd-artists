@@ -138,6 +138,7 @@
 {Orange Caramel}{}{2010-06-16}{GG}{3}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Orange Caramel][][2010-06-16][GG][3][Pledis Entertainment].jpg?raw=true}
 {P1Harmony}{P1H, Piwon}{2020-10-28}{BG}{6}{FNC Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[P1Harmony][P1H, Piwon][2020-10-28][BG][6][FNC Entertainment].webp?raw=true}
 {PENTAGON}{}{2016-10-10}{BG}{9}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PENTAGON][][2016-10-10][BG][9][Cube Entertainment].jpeg?raw=true}
+{PIXY}{}{2021-02-24}{GG}{6}{ALLART Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PIXY][][2021-02-24][GG][6][ALLART Entertainment].jpg?raw=true}
 {PLAYBACK}{}{2015-06-25}{GG}{5}{Coridel Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PLAYBACK][][2015-06-25][GG][5][Coridel Entertainment].jpg?raw=true}
 {PLEDIS Girlz}{}{2016-03-25}{GG}{10}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PLEDIS Girlz][][2016-03-25][GG][10][Pledis Entertainment].webp?raw=true}
 {PRISTIN V}{}{2018-05-28}{GG}{5}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[PRISTIN V][][2018-05-28][GG][5][Pledis Entertainment].webp?raw=true}
@@ -202,14 +203,3 @@
 {WJSN THE BLACK}{WJSN}{2021-05-12}{GG}{4}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN THE BLACK][WJSN][2021-05-12][GG][4][Starship Entertainment].webp?raw=true}
 {WJSN}{Cosmic Girls}{2016-02-25}{GG}{13}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WJSN][Cosmic Girls][2016-02-25][GG][13][Starship Entertainment].jpg?raw=true}
 {Wonder Girls}{}{2007-02-13}{GG}{5}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Wonder Girls][][2007-02-13][GG][5][JYP Entertainment].webp?raw=true}
-{WOOAH}{}{2020-05-13}{GG}{5}{H Music Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[WOOAH][][2020-05-13][GG][5][H Music Entertainment].jpeg?raw=true}
-{X1}{}{2019-08-27}{BG}{11}{Swing Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[X1][][2019-08-27][BG][11][Swing Entertainment].jpg?raw=true}
-{XG}{Xtraordinary Girls}{2022-03-18}{GG}{7}{XGALX}{https://github.com/giannistek1/rpd-audio/blob/main/[XG][Xtraordinary Girls][2022-03-18][GG][7][XGALX].jpg?raw=true}
-{xikers}{KQ Fellaz 2}{2023-03-30}{BG}{10}{KQ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][KQ Fellaz 2][2023-03-30][BG][10][KQ Entertainment].jpg?raw=true}
-{YENA (IZ ONE)}{Choi Ye-na}{2018-10-29}{GG}{1}{Yuehua Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[YENA (IZ ONE)][Choi Ye-na][2018-10-29][GG][1][Yuehua Entertainment].jpg?raw=true}
-{Yeonjun (TXT)}{Choi Yeon-jun}{2024-09-19}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Yeonjun (TXT)][Choi Yeon-jun][2024-09-19][BG][1][Big Hit Entertainment].jpg?raw=true}
-{YOUNG POSSE}{}{2023-10-25}{GG}{5}{DSP Media}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][][2023-10-25][GG][5][DSP Media].jpg?raw=true}
-{Yuju}{Choi Yu-na}{2015-01-15}{GG}{1}{Konnect Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Yuju][Choi Yu-na][2015-01-15][GG][1][Konnect Entertainment].jpg?raw=true}
-{YUQI ((G)I-DLE)}{Song Yuqi}{2021-05-13}{GG}{1}{Cube Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[YUQI ((G)I-DLE)][Song Yuqi][2021-05-13][GG][1][Cube Entertainment].webp?raw=true}
-{ZEROBASEONE}{ZB1}{2023-07-10}{BG}{9}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][ZB1][2023-07-10][BG][9][Wake One].jpg?raw=true}
-{ZICO (Block B)}{Woo Ji-ho}{2011-04-13}{BG}{1}{KOZ Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[ZICO (Block B)][Woo Ji-ho][2011-04-13][BG][1][KOZ Entertainment].jpg?raw=true}
