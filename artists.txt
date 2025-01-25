@@ -86,6 +86,7 @@
 {JEON SOMI (I.O.I)}{Jeon So-mi, Ennik Somi Douma}{2016-05-04}{GG}{1}{The Black Label}{https://github.com/giannistek1/rpd-audio/blob/main/[JEON SOMI (I.O.I)][Jeon So-mi, Ennik Somi Douma][2016-05-04][GG][1][The Black Label].jpg?raw=true}
 {Jessi}{Jessica H.o.}{2005-12-01}{GG}{1}{PNation}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Jessica H.o.][2005-12-01][GG][1][PNation].jpg?raw=true}
 {JIHYO (Twice)}{Park Ji-hyo}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][Park Ji-hyo][2015-10-20][GG][1][JYP Entertainment].jpg?raw=true}
+{Jimin (BTS)}{Park Ji-min, Mochi}{2023-02-10}{BG}{1}{Big Hit Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Jimin (BTS)][Park Ji-min, Mochi][2023-02-10][BG][1][Big Hit Entertainment].webp?raw=true}
 {JISOO (Blackpink)}{Kim Ji-soo}{2016-08-08}{GG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (Blackpink)][Kim Ji-soo][2016-08-08][GG][1][YG Entertainment].webp?raw=true}
 {Jo Yuri (IZ ONE)}{Jo Yu-ri}{2021-10-07}{GG}{1}{Wake One}{https://github.com/giannistek1/rpd-audio/blob/main/[Jo Yuri (IZ ONE)][Jo Yu-ri][2021-10-07][GG][1][Wake One].jpg?raw=true}
 {Joy (Red Velvet)}{Park Soo-young}{2014-08-01}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Joy (Red Velvet)][Park Soo-young][2014-08-01][GG][1][SM Entertainment].jpg?raw=true}
