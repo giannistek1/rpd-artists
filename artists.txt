@@ -53,6 +53,7 @@
 {G-DRAGON (BIGBANG)}{Kwon Ji-yong, King of K-pop}{2009-08-18}{BG}{1}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[G-DRAGON (BIGBANG)][Kwon Ji-yong, King of K-pop][2009-08-18][BG][1][YG Entertainment].jpg?raw=true}
 {GD X Taeyang (BIGBANG)}{}{2014-11-21}{BG}{2}{YG Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang (BIGBANG)][][2014-11-21][BG][2][YG Entertainment].jpg?raw=true}
 {GFRIEND}{}{2015-01-15}{GG}{6}{Source Music}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][][2015-01-15][GG][6][Source Music].jpg?raw=true}
+{Girls Day}{}{2010-07-09}{GG}{4}{Dream T Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Day][][2010-07-09][GG][4][Dream T Entertainment].jpg?raw=true}
 {Girls Generation (SNSD)}{SNSD, GG}{2007-08-05}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][SNSD, GG][2007-08-05][GG][8][SM Entertainment].webp?raw=true}
 {GISELLE (aespa)}{Aeri Uchinaga}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[GISELLE (aespa)][Aeri Uchinaga][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {Golden Child}{GC, GNCD, GolCha}{2017-08-28}{BG}{10}{Woollim Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Golden Child][GC, GNCD, GolCha][2017-08-28][BG][10][Woollim Entertainment].webp?raw=true}
