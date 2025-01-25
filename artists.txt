@@ -132,6 +132,7 @@
 {NINGNING (aespa)}{Ning Yizhuo}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NINGNING (aespa)][Ning Yizhuo][2020-11-17][GG][1][SM Entertainment].png?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][][2022-02-22][GG][6][JYP Entertainment].jpg?raw=true}
 {NSYNC}{}{1995-10-22}{BG}{5}{RCA Records}{https://github.com/giannistek1/rpd-audio/blob/main/[NSYNC][][1995-10-22][BG][5][RCA Records].webp?raw=true}
+{NU EST}{New Establish Style Tempo}{2012-03-15}{BG}{5}{Pledis Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NU EST][New Establish Style Tempo][2012-03-15][BG][5][Pledis Entertainment].webp?raw=true}
 {ODD EYE CIRCLE}{OEC, Loona}{2017-09-16}{GG}{3}{Blockberry Creative}{https://github.com/giannistek1/rpd-audio/blob/main/[ODD EYE CIRCLE][OEC, Loona][2017-09-16][GG][3][Blockberry Creative].jpg?raw=true}
 {OH MY GIRL}{OMG}{2015-04-20}{GG}{7}{WM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][OMG][2015-04-20][GG][7][WM Entertainment].webp?raw=true}
 {Oh!GG}{Girls Generation, SNSD}{2018-09-05}{GG}{5}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Oh!GG][Girls Generation, SNSD][2018-09-05][GG][5][SM Entertainment].jpg?raw=true}
