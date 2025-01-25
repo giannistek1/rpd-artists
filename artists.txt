@@ -120,6 +120,7 @@
 {MOMOLAND}{}{2016-11-10}{GG}{9}{MLD Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][][2016-11-10][GG][9][MLD Entertainment].jpg?raw=true}
 {MONSTA X}{}{2015-05-14}{BG}{6}{Starship Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[MONSTA X][][2015-05-14][BG][6][Starship Entertainment].jpg?raw=true}
 {Moonbyul (Mamamoo)}{Moon Byul-yi}{2018-05-23}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[Moonbyul (Mamamoo)][Moon Byul-yi][2018-05-23][GG][1][RBW Entertainment].jpg?raw=true}
+{NATTY (Kiss of Life)}{Ahnatchaya Suputhipong}{2020-05-07}{GG}{1}{Swing Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NATTY (Kiss of Life)][Ahnatchaya Suputhipong][2020-05-07][GG][1][Swing Entertainment].jpg?raw=true}
 {NAYEON (Twice)}{Im Na-yeon}{2015-10-20}{GG}{1}{JYP Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (Twice)][Im Na-yeon][2015-10-20][GG][1][JYP Entertainment].webp?raw=true}
 {NCT 127}{}{2016-07-07}{BG}{10}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][][2016-07-07][BG][10][SM Entertainment].webp?raw=true}
 {NCT DOJAEJUNG}{}{2023-04-17}{BG}{3}{SM Entertainment}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT DOJAEJUNG][][2023-04-17][BG][3][SM Entertainment].webp?raw=true}
