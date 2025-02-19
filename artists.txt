@@ -180,7 +180,7 @@
 {Teen Top}{}{2010-07-10}{BG}{6}{TOP Media}{https://github.com/giannistek1/rpd-artists/blob/main/%5BTeen Top%5D%5B%5D%5B2010-07-10%5D%5BBG%5D%5B6%5D%5BTOP Media%5D.jpeg?raw=true}
 {TEN & YANGYANG (WayV)}{Ten}{2019-01-17}{BG}{2}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BTEN & YANGYANG (WayV)%5D%5BTen%5D%5B2019-01-17%5D%5BBG%5D%5B2%5D%5BSM Entertainment%5D.jpg?raw=true}
 {TEN (NCT)}{Chittaphon Leechaiyapornkul}{2016-04-09}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BTEN (NCT)%5D%5BChittaphon Leechaiyapornkul%5D%5B2016-04-09%5D%5BBG%5D%5B1%5D%5BSM Entertainment%5D.png?raw=true}
-{The Boyz}{TBZ}{2017-12-06}{BG}{11}{IST Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BThe Boyz%5D%5BTBZ%5D%5B2017-12-06%5D%5BBG%5D%5B11%5D%5BIST Entertainment%5D.webp?raw=true}
+{The Boyz}{TBZ, Cre.kerz}{2017-12-06}{BG}{11}{IST Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BThe Boyz%5D%5BTBZ, Cre.kerz%5D%5B2017-12-06%5D%5BBG%5D%5B11%5D%5BIST Entertainment%5D.webp?raw=true}
 {Tiffany (SNSD)}{Tiffany Young, TTS}{2016-05-11}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BTiffany (SNSD)%5D%5BTiffany Young, TTS%5D%5B2016-05-11%5D%5BGG%5D%5B1%5D%5BSM Entertainment%5D.jpg?raw=true}
 {TREASURE}{}{2020-08-07}{BG}{10}{YG Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BTREASURE%5D%5B%5D%5B2020-08-07%5D%5BBG%5D%5B10%5D%5BYG Entertainment%5D.webp?raw=true}
 {TRI.BE}{Triangle, perfect being}{2021-02-10}{GG}{7}{TR Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BTRI.BE%5D%5BTriangle, perfect being%5D%5B2021-02-10%5D%5BGG%5D%5B7%5D%5BTR Entertainment%5D.png?raw=true}
