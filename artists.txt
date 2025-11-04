@@ -14,7 +14,7 @@
 {ASTRO}{Star}{2016-02-23}{BG}{6}{Fantagio}{https://github.com/giannistek1/rpd-artists/blob/main/%5BASTRO%5D%5BStar%5D%5B2016-02-23%5D%5BBG%5D%5B6%5D%5BFantagio%5D.jpg?raw=true}
 {ATEEZ}{KQ Fellaz}{2018-10-24}{BG}{8}{KQ Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BATEEZ%5D%5BKQ Fellaz%5D%5B2018-10-24%5D%5BBG%5D%5B8%5D%5BKQ Entertainment%5D.jpeg?raw=true}
 {B.A.P}{Best Absolute Perfect, Bap}{2012-01-26}{BG}{6}{TS Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BB.A.P%5D%5BBest Absolute Perfect, Bap%5D%5B2012-01-26%5D%5BBG%5D%5B6%5D%5BTS Entertainment%5D.jpg?raw=true}
-{BABYMONSTER}{BM}{2024-04-01}{GG}{7}{YG Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBABYMONSTER%5D%5BBM%5D%5B2024-04-01%5D%5BGG%5D%5B7%5D%5BYG Entertainment%5D.jpg?raw=true}
+{BABYMONSTER}{BM, BAEMON}{2024-04-01}{GG}{7}{YG Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBABYMONSTER%5D%5BBM, BAEMON%5D%5B2024-04-01%5D%5BGG%5D%5B7%5D%5BYG Entertainment%5D.jpg?raw=true}
 {BADVILLAIN}{}{2024-06-03}{GG}{7}{BPM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBADVILLAIN%5D%5B%5D%5B2024-06-03%5D%5BGG%5D%5B7%5D%5BBPM Entertainment%5D.jpg?raw=true}
 {Baekhyun (EXO)}{Byun Baek-hyun}{2012-04-08}{BG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBaekhyun (EXO)%5D%5BByun Baek-hyun%5D%5B2012-04-08%5D%5BBG%5D%5B1%5D%5BSM Entertainment%5D.jpg?raw=true}
 {BEAST}{B2ST}{2009-10-16}{BG}{6}{Cube Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBEAST%5D%5BB2ST%5D%5B2009-10-16%5D%5BBG%5D%5B6%5D%5BCube Entertainment%5D.jpg?raw=true}
@@ -61,12 +61,13 @@
 {GOT7}{}{2014-01-16}{BG}{7}{JYP Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BGOT7%5D%5B%5D%5B2014-01-16%5D%5BBG%5D%5B7%5D%5BJYP Entertainment%5D.webp?raw=true}
 {GYUBIN}{Park Gyu-bin}{2024-01-17}{GG}{1}{LIVEWORKS COMPANY}{https://github.com/giannistek1/rpd-artists/blob/main/%5BGYUBIN%5D%5BPark Gyu-bin%5D%5B2024-01-17%5D%5BGG%5D%5B1%5D%5BLIVEWORKS COMPANY%5D.webp?raw=true}
 {H.I.N.P}{}{2019-07-02}{BG}{5}{Stone Music Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BH.I.N.P%5D%5B%5D%5B2019-07-02%5D%5BBG%5D%5B5%5D%5BStone Music Entertainment%5D.webp?raw=true}
+{Heart2Hearts}{}{02-24-2025}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHeart2Hearts%5D%5B%5D%5B02-24-2025%5D%5BGG%5D%5B8%5D%5BSM Entertainment%5D.webp?raw=true}
 {Highlight}{BEAST}{2009-10-16}{BG}{5}{Around Us Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHighlight%5D%5BBEAST%5D%5B2009-10-16%5D%5BBG%5D%5B5%5D%5BAround Us Entertainment%5D.jpg?raw=true}
 {HINAPIA}{}{2019-11-03}{GG}{5}{OSR Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHINAPIA%5D%5B%5D%5B2019-11-03%5D%5BGG%5D%5B5%5D%5BOSR Entertainment%5D.webp?raw=true}
 {HWASA (Mamamoo)}{Hwa Sa}{2014-06-19}{GG}{1}{RBW Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHWASA (Mamamoo)%5D%5BHwa Sa%5D%5B2014-06-19%5D%5BGG%5D%5B1%5D%5BRBW Entertainment%5D.jpg?raw=true}
 {HYOLYN (SISTAR)}{Hyorin}{2010-06-03}{GG}{1}{Starship Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHYOLYN (SISTAR)%5D%5BHyorin%5D%5B2010-06-03%5D%5BGG%5D%5B1%5D%5BStarship Entertainment%5D.png?raw=true}
 {HYOYEON (SNSD)}{DJ HYO}{2007-08-05}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHYOYEON (SNSD)%5D%5BDJ HYO%5D%5B2007-08-05%5D%5BGG%5D%5B1%5D%5BSM Entertainment%5D.jpg?raw=true}
-{HyunA & Dawn}{}{2019-11-05}{MIX}{2}{P Nation}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHyunA & Dawn%5D%5B%5D%5B2019-11-05%5D%5BMIX%5D%5B2%5D%5BP Nation%5D.webp?raw=true}
+{HyunA & Dawn}{Dawn & HyunA}{2019-11-05}{MIX}{2}{P Nation}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHyunA & Dawn%5D%5BDawn & HyunA%5D%5B2019-11-05%5D%5BMIX%5D%5B2%5D%5BP Nation%5D.webp?raw=true}
 {HyunA (4Minute)}{Kim Hyun-a}{2007-02-10}{GG}{1}{P Nation}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHyunA (4Minute)%5D%5BKim Hyun-a%5D%5B2007-02-10%5D%5BGG%5D%5B1%5D%5BP Nation%5D.jpg?raw=true}
 {I-LAND2}{}{2024-04-18}{GG}{11}{HYBE Labels}{https://github.com/giannistek1/rpd-artists/blob/main/%5BI-LAND2%5D%5B%5D%5B2024-04-18%5D%5BGG%5D%5B11%5D%5BHYBE Labels%5D.webp?raw=true}
 {I-LAND}{}{2020-06-26}{BG}{23}{HYBE Labels}{https://github.com/giannistek1/rpd-artists/blob/main/%5BI-LAND%5D%5B%5D%5B2020-06-26%5D%5BBG%5D%5B23%5D%5BHYBE Labels%5D.jpg?raw=true}
