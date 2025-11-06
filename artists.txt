@@ -60,7 +60,7 @@
 {GOT The Beat}{}{2022-01-03}{GG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BGOT The Beat%5D%5B%5D%5B2022-01-03%5D%5BGG%5D%5B7%5D%5BSM Entertainment%5D.webp?raw=true}
 {GOT7}{}{2014-01-16}{BG}{7}{JYP Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BGOT7%5D%5B%5D%5B2014-01-16%5D%5BBG%5D%5B7%5D%5BJYP Entertainment%5D.webp?raw=true}
 {GYUBIN}{Park Gyu-bin}{2024-01-17}{GG}{1}{LIVEWORKS COMPANY}{https://github.com/giannistek1/rpd-artists/blob/main/%5BGYUBIN%5D%5BPark Gyu-bin%5D%5B2024-01-17%5D%5BGG%5D%5B1%5D%5BLIVEWORKS COMPANY%5D.webp?raw=true}
-{H.I.N.P}{}{2019-07-02}{BG}{5}{Stone Music Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BH.I.N.P%5D%5B%5D%5B2019-07-02%5D%5BBG%5D%5B5%5D%5BStone Music Entertainment%5D.webp?raw=true}
+{H.I.N.P}{Produce 48}{2019-07-02}{BG}{5}{Stone Music Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BH.I.N.P%5D%5BProduce 48%5D%5B2019-07-02%5D%5BBG%5D%5B5%5D%5BStone Music Entertainment%5D.webp?raw=true}
 {Heart2Hearts}{}{2025-02-24}{GG}{8}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHeart2Hearts%5D%5B%5D%5B2025-02-24%5D%5BGG%5D%5B8%5D%5BSM Entertainment%5D.webp?raw=true}
 {Highlight}{BEAST}{2009-10-16}{BG}{5}{Around Us Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHighlight%5D%5BBEAST%5D%5B2009-10-16%5D%5BBG%5D%5B5%5D%5BAround Us Entertainment%5D.jpg?raw=true}
 {HINAPIA}{}{2019-11-03}{GG}{5}{OSR Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BHINAPIA%5D%5B%5D%5B2019-11-03%5D%5BGG%5D%5B5%5D%5BOSR Entertainment%5D.webp?raw=true}
