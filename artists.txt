@@ -130,7 +130,7 @@
 {NCT DOJAEJUNG}{}{2023-04-17}{BG}{3}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNCT DOJAEJUNG%5D%5B%5D%5B2023-04-17%5D%5BBG%5D%5B3%5D%5BSM Entertainment%5D.webp?raw=true}
 {NCT Dream}{}{2016-08-25}{BG}{7}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNCT Dream%5D%5B%5D%5B2016-08-25%5D%5BBG%5D%5B7%5D%5BSM Entertainment%5D.jpg?raw=true}
 {NCT U}{}{2016-04-09}{BG}{23}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNCT U%5D%5B%5D%5B2016-04-09%5D%5BBG%5D%5B23%5D%5BSM Entertainment%5D.jpg?raw=true}
-{NCT x aespa}{TAEYONG, JENO, HENDERY, YANGYANG, GISELLE}{2020-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNCT x aespa%5D%5BTAEYONG, JENO, HENDERY, YANGYANG, GISELLE%5D%5B2020-12-27%5D%5BMIX%5D%5B12%5D%5BSM Entertainment%5D.jpg?raw=true}
+{NCT x aespa}{TAEYONG, JENO, HENDERY, YANGYANG, GISELLE, SMTOWN}{2020-12-27}{MIX}{12}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNCT x aespa%5D%5BTAEYONG, JENO, HENDERY, YANGYANG, GISELLE, SMTOWN%5D%5B2020-12-27%5D%5BMIX%5D%5B12%5D%5BSM Entertainment%5D.jpg?raw=true}
 {NewJeans}{}{2022-07-22}{GG}{5}{HYBE Labels}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNewJeans%5D%5B%5D%5B2022-07-22%5D%5BGG%5D%5B5%5D%5BHYBE Labels%5D.jpg?raw=true}
 {NINGNING (aespa)}{Ning Yizhuo}{2020-11-17}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNINGNING (aespa)%5D%5BNing Yizhuo%5D%5B2020-11-17%5D%5BGG%5D%5B1%5D%5BSM Entertainment%5D.png?raw=true}
 {NMIXX}{}{2022-02-22}{GG}{6}{JYP Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BNMIXX%5D%5B%5D%5B2022-02-22%5D%5BGG%5D%5B6%5D%5BJYP Entertainment%5D.jpg?raw=true}
