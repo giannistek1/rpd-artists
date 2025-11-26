@@ -20,7 +20,7 @@
 {BIGBANG}{}{2006-08-19}{BG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBIGBANG%5D%5B%5D%5B2006-08-19%5D%5BBG%5D%5B4%5D%5BYG Entertainment%5D.jpg?raw=true}
 {Billie Eilish}{}{2015-11-18}{GG}{1}{Interscope Records}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBillie Eilish%5D%5B%5D%5B2015-11-18%5D%5BGG%5D%5B1%5D%5BInterscope Records%5D.jpg?raw=true}
 {Billie}{Mystic Rookies}{2021-11-10}{GG}{7}{Mystic Story}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBillie%5D%5BMystic Rookies%5D%5B2021-11-10%5D%5BGG%5D%5B7%5D%5BMystic Story%5D.jpg?raw=true}
-{Blackpink}{BLACKPINK}{2016-08-08}{GG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBlackpink%5D%5BBLACKPINK%5D%5B2016-08-08%5D%5BGG%5D%5B4%5D%5BYG Entertainment%5D.jpg?raw=true}
+{Blackpink}{bp}{2016-08-08}{GG}{4}{YG Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBlackpink%5D%5Bbp%5D%5B2016-08-08%5D%5BGG%5D%5B4%5D%5BYG Entertainment%5D.jpg?raw=true}
 {Block B}{}{2011-04-13}{BG}{7}{Stardom Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBlock B%5D%5B%5D%5B2011-04-13%5D%5BBG%5D%5B7%5D%5BStardom Entertainment%5D.jpg?raw=true}
 {BoA}{Beat of Angel, Kwon Bo-ah}{2000-08-25}{GG}{1}{SM Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBoA%5D%5BBeat of Angel, Kwon Bo-ah%5D%5B2000-08-25%5D%5BGG%5D%5B1%5D%5BSM Entertainment%5D.png?raw=true}
 {BOYNEXTDOOR}{}{2023-05-30}{BG}{6}{KOZ Entertainment}{https://github.com/giannistek1/rpd-artists/blob/main/%5BBOYNEXTDOOR%5D%5B%5D%5B2023-05-30%5D%5BBG%5D%5B6%5D%5BKOZ Entertainment%5D.jpg?raw=true}
